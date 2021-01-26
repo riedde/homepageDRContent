@@ -31,8 +31,8 @@
                </event>
                <event>
                   <desc>
-                     <label xml:lang="de">Baumann-Digital (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
-                     <label xml:lang="en">Baumann-Digital (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
+                     <label xml:lang="de">Baumann-Digital – Promotionsprojekt (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
+                     <label xml:lang="en">Baumann-Digital – PhD project (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
                      <date from-custom="2017"/>
                   </desc>
                </event>
