@@ -41,6 +41,7 @@
                <item>RelaxNG</item>
                <item>Schematron (Grundlagen)</item>
                <item>eXist-db</item>
+               <item>ANT (Grundlagen)</item>
                <item>HTML 5</item>
                <item>CSS 3</item>
                <item>Bootstrap 4</item>
@@ -63,8 +64,9 @@
                <item>xQuery</item>
                <item>XSLT</item>
                <item>RelaxNG</item>
-               <item>Schematron (basic)</item>
+               <item>Schematron (basics)</item>
                <item>eXist-db</item>
+               <item>ANT (basics)</item>
                <item>HTML 5</item>
                <item>CSS 3</item>
                <item>Bootstrap 4</item>
