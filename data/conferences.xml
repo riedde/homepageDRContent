@@ -9,7 +9,25 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <listEvent>
+            <listEvent type="conference">
+               <event type="future">
+                  <desc>
+                     <label>Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</label>
+                     <orgName>Universität Bonn/Beethoven-Haus</orgName>
+                     <settlement>Bonn</settlement>
+                     <date from-custom="2021-09-28" to-custom="2021-10-01"/>
+                     <!--                     <desc type="contribution" subtype="poster">Notationsprobleme</desc>-->
+                  </desc>
+               </event>
+               <event type="future">
+                  <desc>
+                     <label>Edirom Summer-School</label>
+                     <orgName>Universität Paderborn/HfM Detmold</orgName>
+                     <settlement>Paderborn</settlement>
+                     <date from-custom="2021-09-13" to-custom="2021-09-17"/>
+<!--                     <desc type="contribution" subtype="lecturer">Edirom/Digitale Musikedition</desc>-->
+                  </desc>
+               </event>
                <event type="past">
                   <desc>
                      <label>Working Meeting on the topic of MEI Metadata</label>
@@ -24,7 +42,7 @@
                      <orgName>Deutsches Literaturarchiv</orgName>
                      <settlement>Marbach am Neckar</settlement>
                      <date from-custom="2020-02-12" to-custom="2020-02-15">12.–15. Februar 2020</date>
-                     <desc type="contribution" subtype="confPoster">›Epitexte‹ in der Reger-Werkausgabe</desc>
+                     <desc type="contribution" subtype="confTalk">›Epitexte‹ in der Reger-Werkausgabe</desc>
                   </desc>
                </event>
                <event type="past">
@@ -32,7 +50,7 @@
                      <label>Edirom Summer-School</label>
                      <orgName>Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Paderborn</settlement>
-                     <date when-custom="2020-09">Sept. 2020</date>
+                     <date from-custom="2020-08-31" to-custom="2020-09-04"/>
                      <desc type="contribution" subtype="lecturer">Edirom/Digitale Musikedition</desc>
                   </desc>
                </event>
@@ -41,8 +59,24 @@
                      <label>Notensatz im 21. Jahrhundert Entwicklungen und Perspektiven</label>
                      <orgName>Universität Mozarteum</orgName>
                      <settlement>Salzburg</settlement>
-                     <date when-custom="2020-02"/>
+                     <date from-custom="2020-02-17" to-custom="2020-02-18"></date>
                      <desc type="contribution" subtype="confPoster">Grenzen der Darstellbarkeit des Notenbildes in komplexen Reger-Partituren</desc>
+                  </desc>
+               </event>
+               <event type="past">
+                  <desc>
+                     <label>Karajan Music Tech Conference</label>
+                     <orgName>Eliette und Herbert von Karajan Institut Salzburg</orgName>
+                     <settlement>online</settlement>
+                     <date when-custom="2020-03-03"/>
+                  </desc>
+               </event>
+               <event type="past">
+                  <desc>
+                     <label>Music-Encoding-Conference</label>
+                     <orgName>Tufts University Boston</orgName>
+                     <settlement>online</settlement>
+                     <date from-custom="2020-05-26" to-custom="2020-05-29"/>
                   </desc>
                </event>
                <event type="past">
@@ -50,7 +84,7 @@
                      <label>Music-Encoding-Conference</label>
                      <orgName>Universität Paderborn</orgName>
                      <settlement>Paderborn</settlement>
-                     <date when-custom="2019-05"/>
+                     <date from-custom="2019-05-29" to-custom="2019-06-01"/>
                      <desc type="contribution" subtype="confPoster">Creating, transforming and representing data at Baumann-Digital and Joachim-Raff-Archiv</desc>
                   </desc>
                </event>
@@ -59,7 +93,7 @@
                      <label>Edirom-Summer-School</label>
                      <orgName>Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Paderborn</settlement>
-                     <date when-custom="2019-05"/>
+                     <date from-custom="2019-09-02" to-custom="2019-09-06"/>
                      <desc type="contribution" subtype="confPoster">Daten, Daten, Daten -- Händische Listen vs. automatisierte Register</desc>
                   </desc>
                </event>
@@ -68,8 +102,16 @@
                      <label>Edirom-Summer-School</label>
                      <orgName>Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Paderborn</settlement>
-                     <date when-custom="2017-09"/>
-                     <desc type="contribution" subtype="confPoster">BauDi -- Digitales Konvolut und weiter?</desc>
+                     <date from-custom="2018-09-17" to-custom="2018-09-21"/>
+                  </desc>
+               </event>
+               <event type="past">
+                  <desc>
+                     <label>Edirom-Summer-School</label>
+                     <orgName>Universität Paderborn/HfM Detmold</orgName>
+                     <settlement>Paderborn</settlement>
+                     <date from-custom="2017-09-18" to-custom="2017-09-22"/>
+                     <desc type="contribution" subtype="confPoster">BauDi – Digitales Konvolut und weiter?</desc>
                   </desc>
                </event>
                <event type="past">
@@ -78,10 +120,20 @@
                      <orgName>Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Donaueschingen</settlement>
                      <date when-custom="2016-12"/>
-                     <desc type="contribution" subtype="confPoster">Digitale Edition von Werken Kalliwodas und der Versuch der Integration in das Onlineangebot der Badischen Landesbibliothek</desc>
+                     <desc type="contribution" subtype="confTalk">Digitale Edition von Werken Kalliwodas und der Versuch der Integration in das Onlineangebot der Badischen Landesbibliothek</desc>
                   </desc>
                </event>
+            </listEvent>
+            <listEvent type="workshop">
                <event type="past">
+                  <desc>
+                     <label>›Digital Winter School‹ 2021: »A FAIRground«. Forschungsdatenmanagement</label>
+                     <orgName>Universitätsbibliothek Hildesheim</orgName>
+                     <settlement>online</settlement>
+                     <date when-custom="2021-02-17">17. Februar 2021</date>
+                  </desc>
+               </event>
+               <event type="current">
                   <desc>
                      <label>eXist-bootcamp: xQuery + eXist-db for Humanists</label>
                      <orgName>Université Lumière Lyon 2</orgName>
@@ -95,7 +147,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <p/>
       </body>
   </text>
 </TEI>
