@@ -13,9 +13,9 @@
             <listEvent>
                <event>
                   <desc>
-                     <label xml:lang="de">Retrokonversion der »<ref target="https://journals.qucosa.de/mimrg">Mitteilungen</ref> der Internationale Max Reger
+                     <label xml:lang="de">Digitale Erschließung der »<ref target="https://journals.qucosa.de/mimrg">Mitteilungen</ref> der Internationale Max Reger
                         Gesellschaft (<ref target="https://imrg.de/">IMRG</ref>)</label>
-                     <label xml:lang="en">Retroconversion of »<ref target="https://journals.qucosa.de/mimrg">Mitteilungen</ref> der Internationalen Max Reger
+                     <label xml:lang="en">Digital indexing of »<ref target="https://journals.qucosa.de/mimrg">Mitteilungen</ref> der Internationalen Max Reger
                         Gesellschaft (<ref target="https://imrg.de/">IMRG</ref>)</label>
                      <date from-custom="2020" to-custom="2021"/>
                   </desc>
