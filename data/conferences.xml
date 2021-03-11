@@ -133,11 +133,19 @@
                      <date when-custom="2021-02-17">17. Februar 2021</date>
                   </desc>
                </event>
+               <event type="past">
+                  <desc>
+                     <label>Das Konzept Datenmanagementplan</label>
+                     <orgName>DINI/nestor AG Forschungsdaten/fdm.nrw</orgName>
+                     <settlement>online</settlement>
+                     <date when-custom="2021-03">März 2021</date>
+                  </desc>
+               </event>
                <event type="current">
                   <desc>
                      <label>eXist-bootcamp: xQuery + eXist-db for Humanists</label>
                      <orgName>Université Lumière Lyon 2</orgName>
-                     <settlement>Donaueschingen</settlement>
+                     <settlement>online</settlement>
                      <date from-custom="2020-11" to-custom="2021-03"/>
                   </desc>
                </event>
