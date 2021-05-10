@@ -12,11 +12,11 @@
             <listEvent type="conference">
                <event type="future">
                   <desc>
-                     <label>Plenartagung "Edition als Vermittlung"</label>
+                     <label>Plenartagung »Edition als Vermittlung«</label>
                      <orgName>Universität Klagenfurt/AG germanistische Edition</orgName>
                      <settlement>Klagenfurt</settlement>
                      <date from-custom="2022-01-16" to-custom="2022-02-19"/>
-                     <desc type="contribution" subtype="confTalk">Notation am Rande des Systems. Praxisbeispiele aus der Reger-Werkausgabe</desc>
+                     <desc type="contribution" subtype="confTalk">Digitale Edition im Komponisten-Portal</desc>
                   </desc>
                </event>
                <event type="future">
