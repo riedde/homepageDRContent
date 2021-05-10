@@ -360,6 +360,22 @@
                      <title type="section">Lieder und Chöre</title>
                   </series>
                </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <author>Ried, Dennis</author>
+                     <title>Weltweite Verfügbarkeit und digitale Langzeitarchivierung. Die Mitteilungen der IMRG bei musiconn.publish</title>
+                     <ref target="https://journals.qucosa.de/mimrg/article/view/3199">musiconn.publish</ref>
+                  </analytic>
+                  <monogr>
+                     <title>Mitteilungen</title>
+                     <editor>Almut Ochsmann im Auftrag der Internationalen Max-Reger-Gesellschaft</editor>
+                     <imprint>
+                        <biblScope from="36" to="36"/>
+                        <biblScope unit="issue">39</biblScope>
+                        <date when-custom="2021">2021</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
             </listBibl>
          </sourceDesc>
       </fileDesc>
