@@ -12,11 +12,20 @@
             <listEvent type="conference">
                <event type="future">
                   <desc>
+                     <label>Plenartagung "Edition als Vermittlung"</label>
+                     <orgName>Universität Klagenfurt/AG germanistische Edition</orgName>
+                     <settlement>Klagenfurt</settlement>
+                     <date from-custom="2022-01-16" to-custom="2022-02-19"/>
+                     <desc type="contribution" subtype="confTalk">Notation am Rande des Systems. Praxisbeispiele aus der Reger-Werkausgabe</desc>
+                  </desc>
+               </event>
+               <event type="future">
+                  <desc>
                      <label>Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</label>
                      <orgName>Universität Bonn/Beethoven-Haus</orgName>
                      <settlement>Bonn</settlement>
                      <date from-custom="2021-09-28" to-custom="2021-10-01"/>
-                     <!--                     <desc type="contribution" subtype="poster">Notationsprobleme</desc>-->
+                     <desc type="contribution" subtype="poster">Notation am Rande des Systems. Praxisbeispiele aus der Reger-Werkausgabe</desc>
                   </desc>
                </event>
                <event type="future">
@@ -26,14 +35,6 @@
                      <settlement>Paderborn</settlement>
                      <date from-custom="2021-09-13" to-custom="2021-09-17"/>
 <!--                     <desc type="contribution" subtype="lecturer">Edirom/Digitale Musikedition</desc>-->
-                  </desc>
-               </event>
-               <event type="past">
-                  <desc>
-                     <label>Working Meeting on the topic of MEI Metadata</label>
-                     <orgName>Music Encoding Initiative – Metadata interest group</orgName>
-                     <settlement>online</settlement>
-                     <date from-custom="2020-11-02" to-custom="2020-11-04">2.–4. November 2020</date>
                   </desc>
                </event>
                <event type="past">
@@ -141,12 +142,28 @@
                      <date when-custom="2021-03">März 2021</date>
                   </desc>
                </event>
-               <event type="current">
+               <event type="past">
                   <desc>
                      <label>eXist-bootcamp: xQuery + eXist-db for Humanists</label>
                      <orgName>Université Lumière Lyon 2</orgName>
                      <settlement>online</settlement>
-                     <date from-custom="2020-11" to-custom="2021-03"/>
+                     <date from-custom="2020-11" to-custom="2021-04"/>
+                  </desc>
+               </event>
+               <event type="past">
+                  <desc>
+                     <label>Workshop der Task Area 2 (Datenstandards, Qualität und Kuratierung)</label>
+                     <orgName>NFDI4Culture</orgName>
+                     <settlement>online</settlement>
+                     <date when-custom="2021-05-03">3. Mai 2021</date>
+                  </desc>
+               </event>
+               <event type="past">
+                  <desc>
+                     <label>Working Meeting on the topic of MEI Metadata</label>
+                     <orgName>Music Encoding Initiative – Metadata interest group</orgName>
+                     <settlement>online</settlement>
+                     <date from-custom="2020-11-02" to-custom="2020-11-04">2.–4. November 2020</date>
                   </desc>
                </event>
             </listEvent>
