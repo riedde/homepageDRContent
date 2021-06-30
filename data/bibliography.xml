@@ -240,7 +240,7 @@
                      <editor role="collaboration">Dennis Ried</editor>
                      <imprint>
                         <pubPlace>Stuttgart</pubPlace>
-                        <date when="2019">2019</date>
+                        <date when-custom="2019">2019</date>
                      </imprint>
                      <biblScope unit="volume">7</biblScope>
                      
@@ -328,7 +328,7 @@
                      <editor role="collaboration">Christopher Grafschmidt</editor>
                      <imprint>
                         <pubPlace>Stuttgart</pubPlace>
-                        <date when="2021">2021</date>
+                        <date when-custom="2021">2021</date>
                      </imprint>
                      <biblScope unit="volume">2</biblScope>
                   </monogr>
@@ -349,7 +349,7 @@
                      <editor role="collaboration">Dennis Ried</editor>
                      <imprint>
                         <pubPlace>Stuttgart</pubPlace>
-                        <date when="2021">2021</date>
+                        <date when-custom="2021">2021</date>
                      </imprint>
                      <biblScope unit="volume">9</biblScope>
                   </monogr>
