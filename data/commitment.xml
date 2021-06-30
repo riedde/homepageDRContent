@@ -55,6 +55,10 @@
             </listEvent>
             <listOrg>
                <org>
+                  <desc><label xml:lang="de"><ref target="https://portal.raff-archiv.ch/index.html">Joachim-Raff-Archiv</ref> Lachen/SZ (CH) – Wissenschaftlicher Beirat</label></desc>
+                  <desc><label xml:lang="en"><ref target="https://portal.raff-archiv.ch/index.html">Joachim Raff Archive</ref> Lachen/SZ (CH) - Scientific Advisory Board</label></desc>
+               </org>
+               <org>
                   <desc><label xml:lang="de">Music Encoding Initiative (<ref target="https://music-encoding.org/">MEI</ref>) – Metadata Interest
                         Group</label></desc>
                   <desc><label xml:lang="en">Music Encoding Initiative (<ref target="https://music-encoding.org/">MEI</ref>) – Metadata Interest
