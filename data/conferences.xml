@@ -19,7 +19,7 @@
                      <desc type="contribution" subtype="confTalk">Digitale Edition im Komponisten-Portal</desc>
                   </desc>
                </event>
-               <event type="future">
+               <!--<event type="future">
                   <desc>
                      <label>Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</label>
                      <orgName>Universität Bonn/Beethoven-Haus</orgName>
@@ -27,7 +27,7 @@
                      <date from-custom="2021-09-28" to-custom="2021-10-01"/>
                      <desc type="contribution" subtype="poster">Notation am Rande des Systems. Praxisbeispiele aus der Reger-Werkausgabe</desc>
                   </desc>
-               </event>
+               </event>-->
                <event type="future">
                   <desc>
                      <label>Edirom Summer-School</label>
@@ -35,6 +35,23 @@
                      <settlement>Paderborn</settlement>
                      <date from-custom="2021-09-13" to-custom="2021-09-17"/>
 <!--                     <desc type="contribution" subtype="lecturer">Edirom/Digitale Musikedition</desc>-->
+                  </desc>
+               </event>
+               <event type="future">
+                  <desc>
+                     <label>Music-Encoding-Conference</label>
+                     <orgName>University of Alicante (E)</orgName>
+                     <settlement>online</settlement>
+                     <date from-custom="2020-07-19" to-custom="2020-07-22"/>
+                     <desc type="contribution" subtype="confTalk">METAdata and metaDATA</desc>
+                  </desc>
+               </event>
+               <event type="past">
+                  <desc>
+                     <label>GNDCon 2.0</label>
+                     <orgName>GND-Kooperative</orgName>
+                     <settlement>online</settlement>
+                     <date from-custom="2021-06-07" to-custom="2021-06-11">7.–11. Juni 2021</date>
                   </desc>
                </event>
                <event type="past">
