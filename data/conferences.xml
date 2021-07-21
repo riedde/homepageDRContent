@@ -3,10 +3,10 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Conferences</title>
+            <title>Conferences on which Dennis Ried participated</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Published on https://deninsried.de</p>
          </publicationStmt>
          <sourceDesc>
             <listEvent type="conference">
@@ -25,7 +25,6 @@
                      <orgName>Universität Bonn/Beethoven-Haus</orgName>
                      <settlement>Bonn</settlement>
                      <date from-custom="2021-09-28" to-custom="2021-10-01"/>
-                     <desc type="contribution" subtype="poster">Notation am Rande des Systems. Praxisbeispiele aus der Reger-Werkausgabe</desc>
                   </desc>
                </event>-->
                <event type="future">
@@ -34,15 +33,15 @@
                      <orgName>Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Paderborn</settlement>
                      <date from-custom="2021-09-13" to-custom="2021-09-17"/>
-<!--                     <desc type="contribution" subtype="lecturer">Edirom/Digitale Musikedition</desc>-->
+<!--                     <desc type="contribution" subtype="workshop">Spotlight: </desc>-->
                   </desc>
                </event>
-               <event type="future">
+               <event type="past">
                   <desc>
                      <label>Music-Encoding-Conference</label>
                      <orgName>University of Alicante (E)</orgName>
                      <settlement>online</settlement>
-                     <date from-custom="2020-07-19" to-custom="2020-07-22"/>
+                     <date from-custom="2021-07-19" to-custom="2021-07-22"/>
                      <desc type="contribution" subtype="confTalk">METAdata and metaDATA</desc>
                   </desc>
                </event>
@@ -143,6 +142,15 @@
                </event>
             </listEvent>
             <listEvent type="workshop">
+               <event type="past">
+                  <desc>
+                     <label>Music-Encoding-Conference</label>
+                     <orgName>University of Alicante (E)</orgName>
+                     <settlement>online</settlement>
+                     <date from-custom="2021-07-19" to-custom="2021-07-22"/>
+                     <desc type="contribution" subtype="confTalk">Lilypond Workshop</desc>
+                  </desc>
+               </event>
                <event type="past">
                   <desc>
                      <label>›Digital Winter School‹ 2021: »A FAIRground«. Forschungsdatenmanagement</label>

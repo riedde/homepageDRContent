@@ -4,10 +4,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Commitment</title>
+            <title>Commitments of Dennis Ried</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Published on https://deninsried.de</p>
          </publicationStmt>
          <sourceDesc>
             <listEvent>
@@ -40,7 +40,7 @@
                   <desc>
                      <label xml:lang="de">Reger-Werkausgabe (<ref target="https://www.reger-werkausgabe.de">RWA</ref>)</label>
                      <label xml:lang="en">Reger-Edition (<ref target="https://www.reger-werkausgabe.de">RWA</ref>)</label>
-                     <date from-custom="2016"/>
+                     <date from-custom="2016" to-custom="2021"/>
                   </desc>
                </event>
                <event>

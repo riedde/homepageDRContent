@@ -4,10 +4,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>The skills od Dennis Ried</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Published on https://deninsried.de</p>
          </publicationStmt>
          <sourceDesc>
             <listEvent>
@@ -19,7 +19,6 @@
                      <country>france</country>
                      <date type="planned" when="2020-06">June 2020</date>
                      <date from-custom="2020-11" to-custom="2021-03"/>
-                     
                   </desc>
                </event>
             </listEvent>
@@ -30,28 +29,32 @@
       <body>
          <div xml:lang="de">
             <p style="subheading mb-3">Alles »nur« Code</p>
-            <p>Die Inhalte dieser Homepage liegen komplett als TEI-kodierte Daten in XML vor. Dargestellt wird eine HTML5-Seite, die unter Anwendung der X-Technologien (xQuery, XSLT) ausgelesen und aufbereitet, mit Bootstrap 4 (CSS) gestaltet und mittels JavaScript animiert wird.</p>
+            <p>Die Inhalte dieser Homepage liegen komplett als TEI-kodierte Daten in XML vor. Dargestellt wird eine HTML5-Seite, die unter Anwendung der X-Technologien (xQuery, XSLT) ausgelesen und aufbereitet, mit Bootstrap 4 (CSS) gestaltet und mittels
+               JavaScript animiert wird.</p>
             <p style="subheading mb-3">Programmiersprachen &amp; Tools</p>
             <p style="mb-3">
                <list rend="row">
-               <item>XML Kodierung mit TEI</item>
-               <item>XML Kodierung mit MEI</item>
-               <item>xQuery</item>
-               <item>XSLT</item>
-               <item>RelaxNG</item>
-               <item>Schematron (Grundlagen)</item>
-               <item>eXist-db</item>
-               <item>ANT (Grundlagen)</item>
-               <item>HTML 5</item>
-               <item>CSS 3</item>
-               <item>Bootstrap 4</item>
-               <item>Edirom Tools</item>
-               <item>OxygenXML Frameworks</item>
-               <item>LaTeX</item>
-            </list>
+                  <item>XML Kodierung mit TEI</item>
+                  <item>XML Kodierung mit MEI</item>
+                  <item>xQuery</item>
+                  <item>XSLT</item>
+                  <item>RelaxNG</item>
+                  <item>Schematron (Grundlagen)</item>
+                  <item>eXist-db</item>
+                  <item>ANT (Grundlagen)</item>
+                  <item>HTML 5</item>
+                  <item>CSS 3</item>
+                  <item>Bootstrap 4</item>
+                  <item>Edirom Tools</item>
+                  <item>OxygenXML Frameworks</item>
+                  <item>LaTeX</item>
+                  <item>LilyPond (Notensatz)</item>
+               </list>
             </p>
             <p style="subheading mb-3">Interdisziplinäre Zusammenarbeit</p>
-            <p>Durch den Einsatz von wissenschaftlicher Expertiese und technischen Fähigkeiten lassen sich Projekte wie das <ref target="https://portal.raff-archiv.ch/index.html">Online-Portal</ref> des Joachim-Raff-Archivs (JRA) realisieren. Das Portal des JRA ist ein Projekt, in dem ein solides Datenmanagement, offene Kommunikation, wissenschaftliche Sorgfalt und anwendungsspezifische technische Lösungen die Qualität und Präsentation der Forschungnsdaten sicher stellen. Nur in Kombination können all diese Fachbereiche zu einem zeitgemäßen Ergebnis führen.</p>
+            <p>Durch den Einsatz von wissenschaftlicher Expertiese und technischen Fähigkeiten lassen sich Projekte wie das <ref target="https://portal.raff-archiv.ch/index.html">Online-Portal</ref> des Joachim-Raff-Archivs (JRA) realisieren. Das Portal des
+               JRA ist ein Projekt, in dem ein solides Datenmanagement, offene Kommunikation, wissenschaftliche Sorgfalt und anwendungsspezifische technische Lösungen die Qualität und Präsentation der Forschungnsdaten sicher stellen. Nur in Kombination können
+               all diese Fachbereiche zu einem zeitgemäßen Ergebnis führen.</p>
             <p style="subheading mb-3">Spezialisierung</p>
             <p>MEI-Metadatenkodierung, Transformationsprozesse, Online-Portale, Forschungsdatenmanagement</p>
          </div>
@@ -61,24 +64,26 @@
             <p style="subheading mb-3">Programming Languages &amp; Tools</p>
             <p style="mb-3">
                <list rend="row">
-               <item>XML Encoding with TEI</item>
-               <item>XML Encoding with MEI</item>
-               <item>xQuery</item>
-               <item>XSLT</item>
-               <item>RelaxNG</item>
-               <item>Schematron (basics)</item>
-               <item>eXist-db</item>
-               <item>ANT (basics)</item>
-               <item>HTML 5</item>
-               <item>CSS 3</item>
-               <item>Bootstrap 4</item>
-               <item>Edirom Tools</item>
-               <item>OxygenXML Frameworks</item>
-               <item>LaTeX</item>
-            </list>
+                  <item>XML Encoding with TEI</item>
+                  <item>XML Encoding with MEI</item>
+                  <item>xQuery</item>
+                  <item>XSLT</item>
+                  <item>RelaxNG</item>
+                  <item>Schematron (basics)</item>
+                  <item>eXist-db</item>
+                  <item>ANT (basics)</item>
+                  <item>HTML 5</item>
+                  <item>CSS 3</item>
+                  <item>Bootstrap 4</item>
+                  <item>Edirom Tools</item>
+                  <item>OxygenXML Frameworks</item>
+                  <item>LaTeX</item>
+                  <item>LilyPond (music engraving)</item>
+               </list>
             </p>
             <p style="subheading mb-3">Interdisciplinary cooperation</p>
-            <p>By using scientific expertise and technical skills, projects like the <ref target="https://portal.raff-archiv.ch/index.html">online portal</ref> of the Joachim Raff Archives (JRA) can be realised. The JRA portal is a project in which solid data management, open communication, scientific diligence and application-specific technical solutions ensure the quality and presentation of research data. Only in combination can all these disciplines lead to a contemporary result.</p>
+            <p>By using scientific expertise and technical skills, projects like the <ref target="https://portal.raff-archiv.ch/index.html">online portal</ref> of the Joachim Raff Archives (JRA) can be realised. The JRA portal is a project in which solid data
+               management, open communication, scientific diligence and application-specific technical solutions ensure the quality and presentation of research data. Only in combination can all these disciplines lead to a contemporary result.</p>
             <p style="subheading mb-3">Specialisation</p>
             <p>MEI metadata encoding, transformation processe, online portals</p>
          </div>

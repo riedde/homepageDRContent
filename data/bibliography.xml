@@ -4,10 +4,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Complete Publication List of Dennis Ried</title>
+            <title>Complete publications list of Dennis Ried</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Published on https://deninsried.de</p>
          </publicationStmt>
          <sourceDesc>
             <listBibl>
@@ -376,6 +376,22 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <!--<biblStruct type="article">
+                  <analytic>
+                     <title>METAdata and metaDATA</title>
+                     <author>Gubsch, Clemens</author>
+                     <author>Ried, Dennis</author>
+                     <ref target="link"
+                        >Music Encoding Conference Proceedings 2021</ref>
+                  </analytic>
+                  <monogr>
+                     <title>Music Encoding Conference Proceedings 2021</title>
+                     <imprint>
+                        <date when-custom="2021">2021</date>
+                        <publisher>Humanities Commons</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>-->
             </listBibl>
          </sourceDesc>
       </fileDesc>
