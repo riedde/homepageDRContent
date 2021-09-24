@@ -13,6 +13,13 @@
             <listEvent>
                <event>
                   <desc>
+                     <label xml:lang="de">»Henze Digital« – Hans Werner Henzes künstlerisches Netzwerk (<ref target="https://gepris.dfg.de/gepris/projekt/459602398">Henze-Digital</ref>)</label>
+                     <label xml:lang="en">»Henze Digital« – Hans Werner Henzes künstlerisches Netzwerk (<ref target="https://gepris.dfg.de/gepris/projekt/459602398">Henze-Digital</ref>)</label>
+                     <date from-custom="2021"/>
+                  </desc>
+               </event>
+               <event>
+                  <desc>
                      <label xml:lang="de">Digitale Erschließung der »<ref target="https://journals.qucosa.de/mimrg">Mitteilungen</ref> der Internationale Max Reger
                         Gesellschaft (<ref target="https://imrg.de/">IMRG</ref>)</label>
                      <label xml:lang="en">Digital indexing of »<ref target="https://journals.qucosa.de/mimrg">Mitteilungen</ref> der Internationalen Max Reger
@@ -31,7 +38,7 @@
                </event>
                <event>
                   <desc>
-                     <label xml:lang="de">Baumann-Digital – Promotionsprojekt (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
+                     <label xml:lang="de">Baumann-Digital – Promotionsbegleitendes Projekt (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
                      <label xml:lang="en">Baumann-Digital – PhD project (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
                      <date from-custom="2017"/>
                   </desc>
