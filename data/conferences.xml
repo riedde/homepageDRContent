@@ -27,11 +27,7 @@
                      <date from-custom="2021-09-28" to-custom="2021-10-01"/>
                   </desc>
                </event>
-<<<<<<< Updated upstream
-               <event type="future">
-=======
                <event type="past">
->>>>>>> Stashed changes
                   <desc>
                      <label>Edirom Summer-School</label>
                      <orgName>Universität Paderborn/HfM Detmold</orgName>
