@@ -19,21 +19,20 @@
                      <desc type="contribution" subtype="confTalk">Digitale Edition im Komponisten-Portal</desc>
                   </desc>
                </event>
-               <!--<event type="future">
+               <event type="future">
                   <desc>
                      <label>Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</label>
                      <orgName>Universität Bonn/Beethoven-Haus</orgName>
                      <settlement>Bonn</settlement>
                      <date from-custom="2021-09-28" to-custom="2021-10-01"/>
                   </desc>
-               </event>-->
+               </event>
                <event type="future">
                   <desc>
                      <label>Edirom Summer-School</label>
                      <orgName>Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Paderborn</settlement>
                      <date from-custom="2021-09-13" to-custom="2021-09-17"/>
-<!--                     <desc type="contribution" subtype="workshop">Spotlight: </desc>-->
                   </desc>
                </event>
                <event type="past">
