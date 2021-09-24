@@ -36,15 +36,16 @@
                <list rend="row">
                   <item>XML Kodierung mit TEI</item>
                   <item>XML Kodierung mit MEI</item>
-                  <item>xQuery</item>
+                  <item>XQuery</item>
                   <item>XSLT</item>
+                  <item>ODD Schema (TEI/MEI)</item>
                   <item>RelaxNG</item>
                   <item>Schematron (Grundlagen)</item>
                   <item>eXist-db</item>
                   <item>ANT (Grundlagen)</item>
                   <item>HTML 5</item>
                   <item>CSS 3</item>
-                  <item>Bootstrap 4</item>
+                  <item>Bootstrap 4+</item>
                   <item>Edirom Tools</item>
                   <item>OxygenXML Frameworks</item>
                   <item>LaTeX</item>
@@ -66,15 +67,16 @@
                <list rend="row">
                   <item>XML Encoding with TEI</item>
                   <item>XML Encoding with MEI</item>
-                  <item>xQuery</item>
+                  <item>XQuery</item>
                   <item>XSLT</item>
+                  <item>ODD Schema (TEI/MEI)</item>
                   <item>RelaxNG</item>
                   <item>Schematron (basics)</item>
                   <item>eXist-db</item>
                   <item>ANT (basics)</item>
                   <item>HTML 5</item>
                   <item>CSS 3</item>
-                  <item>Bootstrap 4</item>
+                  <item>Bootstrap 4+</item>
                   <item>Edirom Tools</item>
                   <item>OxygenXML Frameworks</item>
                   <item>LaTeX</item>

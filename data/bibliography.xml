@@ -13,6 +13,39 @@
             <listBibl>
                <biblStruct type="article">
                   <analytic>
+                     <author>Ried, Dennis</author>
+                     <title>Weltweite Verfügbarkeit und digitale Langzeitarchivierung. Die Mitteilungen der IMRG bei musiconn.publish</title>
+                     <ref target="https://journals.qucosa.de/mimrg/article/view/3199">musiconn.publish</ref>
+                  </analytic>
+                  <monogr>
+                     <title>Mitteilungen</title>
+                     <editor>Almut Ochsmann im Auftrag der Internationalen Max-Reger-Gesellschaft</editor>
+                     <imprint>
+                        <biblScope from="36" to="36"/>
+                        <biblScope unit="issue">39</biblScope>
+                        <date when-custom="2021">2021</date>
+                        <pubPlace>Karlsruhe</pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" status="inThePipe">
+                  <analytic>
+                     <title>METAdata and metaDATA</title>
+                     <author>Gubsch, Clemens</author>
+                     <author>Ried, Dennis</author>
+                     <ref target="link"
+                        >Music Encoding Conference Proceedings 2021</ref>
+                  </analytic>
+                  <monogr>
+                     <title>Music Encoding Conference Proceedings 2021</title>
+                     <imprint>
+                        <date when-custom="2021-09">2021</date>
+                        <publisher>Humanities Commons</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
                      <author>Fütterer, Daniel</author>
                      <author>Gawlok, Judith</author>
                      <author>Lamprecht, Annelie </author>
@@ -26,6 +59,7 @@
                      <imprint>
                         <biblScope from="11" to="13"/>
                         <biblScope unit="issue">29</biblScope>
+                        <pubPlace>Karlsruhe</pubPlace>
                         <date when-custom="2016">2016</date>
                      </imprint>
                   </monogr>
@@ -33,7 +67,7 @@
                <biblStruct type="article">
                   <analytic>
                      <author>Ried, Dennis</author>
-                     <title>Zur Arbeit Max Regers mit August Schmid-Lindner</title>
+                     <title>Zwischen Komposition, Aufführung und Herausgabe. Zur Arbeit Max Regers mit August Schmid-Lindner</title>
                   </analytic>
                   <monogr>
                      <title>Mitteilungen</title>
@@ -42,6 +76,7 @@
                         <biblScope from="7" to="15"/>
                         <biblScope unit="issue">35</biblScope>
                         <date when-custom="2019">2019</date>
+                        <pubPlace>Karlsruhe</pubPlace>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -117,7 +152,7 @@
                      <biblScope from="155" to="176"/>
                   </monogr>
                   <series><title>Klang – Wort – Ereignis. Schriftenreihe der Hochschule für Musik Karlsruhe</title>
-                     <!-- <biblScope unit="issue">?</biblScope> -->
+                      <biblScope unit="issue">4</biblScope> 
                   </series>
                </biblStruct>
                <biblStruct type="poster">
@@ -146,6 +181,7 @@
                         <biblScope from="27" to="29"/>
                         <biblScope unit="issue">32</biblScope>
                         <date when-custom="2017">2017</date>
+                        <pubPlace>Karlsruhe</pubPlace>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -243,7 +279,6 @@
                         <date when-custom="2019">2019</date>
                      </imprint>
                      <biblScope unit="volume">7</biblScope>
-                     
                   </monogr>
                   <series>
                      <title>Max Reger Werkausgabe. Wissenschaftlich-kritische Hybrid-Edition von Werken und Quellen</title>
@@ -251,6 +286,75 @@
                      <biblScope unit="section">II</biblScope>
                      <title type="section">Lieder und Chöre</title>
                   </series>
+               </biblStruct>
+               <biblStruct type="edition" status="inThePipe">
+                  <monogr>
+                     <title>Lieder II</title>
+                     <author>Max Reger</author>
+                     <editor>Stefan König</editor>
+                     <editor>Dennis Ried</editor>
+                     <editor role="collaboration">Nikolaos Beer</editor>
+                     <editor role="collaboration">Christopher Grafschmidt</editor>
+                     <imprint>
+                        <pubPlace>Stuttgart</pubPlace>
+                        <date when-custom="2021">2021</date>
+                     </imprint>
+                     <biblScope unit="volume">2</biblScope>
+                  </monogr>
+                  <series>
+                     <title>Max Reger Werkausgabe. Wissenschaftlich-kritische Hybrid-Edition von Werken und Quellen</title>
+                     <editor>Susanne Popp</editor><editor>Thomas Seedorf</editor>
+                     <biblScope unit="section">II</biblScope>
+                     <title type="section">Lieder und Chöre</title>
+                  </series>
+               </biblStruct>
+               <biblStruct type="edition" status="inThePipe">
+                  <monogr>
+                     <title>Werke für gemischten Chor a cappella II</title>
+                     <author>Max Reger</author>
+                     <editor>Christopher Grafschmidt</editor>
+                     <editor role="collaboration">Nikolaos Beer</editor>
+                     <editor role="collaboration">Stefan König</editor>
+                     <editor role="collaboration">Dennis Ried</editor>
+                     <imprint>
+                        <pubPlace>Stuttgart</pubPlace>
+                        <date when-custom="2021">2021</date>
+                     </imprint>
+                     <biblScope unit="volume">9</biblScope>
+                  </monogr>
+                  <series>
+                     <title>Max Reger Werkausgabe. Wissenschaftlich-kritische Hybrid-Edition von Werken und Quellen</title>
+                     <editor>Susanne Popp</editor><editor>Thomas Seedorf</editor>
+                     <biblScope unit="section">II</biblScope>
+                     <title type="section">Lieder und Chöre</title>
+                  </series>
+               </biblStruct>
+               <biblStruct type="article" subtype="booklet">
+                  <analytic>
+                     <author>Ried, Dennis</author>
+                     <title>Reger. Complete Works for Clarinet and Piano</title>
+                  </analytic>
+                  <monogr>
+                     <title>Reger. Complete Works for Clarinet and Piano</title>
+                     <editor role="label">Musikproduktion Dabringhaus und Grimm (MDG)</editor>
+                     <imprint>
+                        <date when-custom="2016">2016</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" subtype="booklet">
+                  <analytic>
+                     <author>Ried, Dennis</author>
+                     <author>Grafschmidt, Christopher</author>
+                     <title>»Ein gar kräftigliches, nie versiegendes Heilmittel« – Max Regers Klavierbearbeitungen Bach’scher Orgelwerke</title>
+                  </analytic>
+                  <monogr>
+                     <title>Bach - Reger. Transcriptions for Piano Duet</title>
+                     <editor role="label">audite</editor>
+                     <imprint>
+                        <date when-custom="2019">2019</date>
+                     </imprint>
+                  </monogr>
                </biblStruct>
                <biblStruct type="termPaper">
                   <monogr>
@@ -318,80 +422,6 @@
                      <biblScope unit="page"></biblScope>
                   </monogr>
                </biblStruct>
-               <biblStruct type="edition" status="inThePipe">
-                  <monogr>
-                     <title>Lieder II</title>
-                     <author>Max Reger</author>
-                     <editor>Stefan König</editor>
-                     <editor>Dennis Ried</editor>
-                     <editor role="collaboration">Nikolaos Beer</editor>
-                     <editor role="collaboration">Christopher Grafschmidt</editor>
-                     <imprint>
-                        <pubPlace>Stuttgart</pubPlace>
-                        <date when-custom="2021">2021</date>
-                     </imprint>
-                     <biblScope unit="volume">2</biblScope>
-                  </monogr>
-                  <series>
-                     <title>Max Reger Werkausgabe. Wissenschaftlich-kritische Hybrid-Edition von Werken und Quellen</title>
-                     <editor>Susanne Popp</editor><editor>Thomas Seedorf</editor>
-                     <biblScope unit="section">II</biblScope>
-                     <title type="section">Lieder und Chöre</title>
-                  </series>
-               </biblStruct>
-               <biblStruct type="edition" status="inThePipe">
-                  <monogr>
-                     <title>Werke für gemischten Chor a cappella II</title>
-                     <author>Max Reger</author>
-                     <editor>Christopher Grafschmidt</editor>
-                     <editor role="collaboration">Nikolaos Beer</editor>
-                     <editor role="collaboration">Stefan König</editor>
-                     <editor role="collaboration">Dennis Ried</editor>
-                     <imprint>
-                        <pubPlace>Stuttgart</pubPlace>
-                        <date when-custom="2021">2021</date>
-                     </imprint>
-                     <biblScope unit="volume">9</biblScope>
-                  </monogr>
-                  <series>
-                     <title>Max Reger Werkausgabe. Wissenschaftlich-kritische Hybrid-Edition von Werken und Quellen</title>
-                     <editor>Susanne Popp</editor><editor>Thomas Seedorf</editor>
-                     <biblScope unit="section">II</biblScope>
-                     <title type="section">Lieder und Chöre</title>
-                  </series>
-               </biblStruct>
-               <biblStruct type="article">
-                  <analytic>
-                     <author>Ried, Dennis</author>
-                     <title>Weltweite Verfügbarkeit und digitale Langzeitarchivierung. Die Mitteilungen der IMRG bei musiconn.publish</title>
-                     <ref target="https://journals.qucosa.de/mimrg/article/view/3199">musiconn.publish</ref>
-                  </analytic>
-                  <monogr>
-                     <title>Mitteilungen</title>
-                     <editor>Almut Ochsmann im Auftrag der Internationalen Max-Reger-Gesellschaft</editor>
-                     <imprint>
-                        <biblScope from="36" to="36"/>
-                        <biblScope unit="issue">39</biblScope>
-                        <date when-custom="2021">2021</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
-               <!--<biblStruct type="article">
-                  <analytic>
-                     <title>METAdata and metaDATA</title>
-                     <author>Gubsch, Clemens</author>
-                     <author>Ried, Dennis</author>
-                     <ref target="link"
-                        >Music Encoding Conference Proceedings 2021</ref>
-                  </analytic>
-                  <monogr>
-                     <title>Music Encoding Conference Proceedings 2021</title>
-                     <imprint>
-                        <date when-custom="2021">2021</date>
-                        <publisher>Humanities Commons</publisher>
-                     </imprint>
-                  </monogr>
-               </biblStruct>-->
             </listBibl>
          </sourceDesc>
       </fileDesc>
