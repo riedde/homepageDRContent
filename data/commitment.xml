@@ -11,6 +11,13 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
+                  <event>
+                     <desc>
+                        <label xml:lang="de"><ref target="https://github.com/Edirom/Edirom-Online">Edirom Online</ref> – Software für Musikeditonen | Entwicklung</label>
+                        <label xml:lang="en"><ref target="https://github.com/Edirom/Edirom-Online">Edirom Online</ref> – Software for music editions | development</label>
+                        <date from-custom="2021"/>
+                     </desc>
+                  </event>
                <event>
                   <desc>
                      <label xml:lang="de">»Henze Digital« – Hans Werner Henzes künstlerisches Netzwerk (<ref target="https://gepris.dfg.de/gepris/projekt/459602398">Henze-Digital</ref>)</label>
@@ -69,32 +76,39 @@
             </listEvent>
             <listOrg>
                <org>
+                  <desc><label xml:lang="de">Virtueller Forschungsverbund Edirom (<ref target="https://edirom.de/">ViFE</ref>)</label></desc>
+                  <desc><label xml:lang="en">Virtual Research Association Edirom (<ref target="https://edirom.de/">ViFE</ref>)</label></desc>
+               </org>
+               <org>
                   <desc><label xml:lang="de"><ref target="https://portal.raff-archiv.ch/index.html">Joachim-Raff-Archiv</ref> Lachen/SZ (CH) – Wissenschaftlicher Beirat</label></desc>
                   <desc><label xml:lang="en"><ref target="https://portal.raff-archiv.ch/index.html">Joachim Raff Archive</ref> Lachen/SZ (CH) - Scientific Advisory Board</label></desc>
                </org>
                <org>
-                  <desc><label xml:lang="de">Music Encoding Initiative (<ref target="https://music-encoding.org/">MEI</ref>) – Metadata Interest
-                        Group</label></desc>
-                  <desc><label xml:lang="en">Music Encoding Initiative (<ref target="https://music-encoding.org/">MEI</ref>) – Metadata Interest
-                        Group</label></desc>
+                  <desc><label xml:lang="de">Music Encoding Initiative (<ref target="https://music-encoding.org/">MEI</ref>) |
+                     Metadata Interest Group<!--  – Group conviener --></label></desc>
+                  <desc><label xml:lang="en">Music Encoding Initiative (<ref target="https://music-encoding.org/">MEI</ref>) | Metadata Interest Group <!--  – Group conviener --></label></desc>
                </org>
                <org>
-                  <desc><label xml:lang="de"><ref target="https://e-editiones.org/">e-editiones</ref> – Gesellschaft für
-                        wissenschaftliche digitale Editionen</label></desc>
-                  <desc><label xml:lang="en"><ref target="https://e-editiones.org/">e-editiones</ref> – Society for
-                        Scholarly Digital Editions</label></desc>
+                  <desc><label xml:lang="de"><ref target="https://e-editiones.org/">e-editiones</ref> | Gesellschaft für
+                     wissenschaftliche digitale Editionen – Mitglied</label></desc>
+                  <desc><label xml:lang="en"><ref target="https://e-editiones.org/">e-editiones</ref> | Society for
+                     Scholarly Digital Editions – Mitglied</label></desc>
                </org>
                <org>
                   <desc><label xml:lang="de">Gesellschaft für Musikforschung (<ref
-                           target="https://www.musikforschung.de/">GfM</ref>)</label></desc>
+                     target="https://www.musikforschung.de/">GfM</ref>) – Mitglied</label></desc>
                   <desc><label xml:lang="en">(German) <ref target="https://www.musikforschung.de/">Society</ref> of
-                        Musicology</label></desc>
+                     Musicology – member</label></desc>
                </org>
                <org>
                   <desc><label xml:lang="de">Gesellschaft für Musikgeschichte
-                     in Baden-Württemberg (<ref target="http://www.gmg-bw.de/">GMG</ref>)</label></desc>
+                     in Baden-Württemberg (<ref target="http://www.gmg-bw.de/">GMG</ref>) – Mitglied</label></desc>
                   <desc><label xml:lang="en"><ref target="http://www.gmg-bw.de/">Society</ref> for Music History in
-                        Baden-Württemberg (Germany)</label></desc>
+                     Baden-Württemberg (Germany) – member</label></desc>
+               </org>
+               <org>
+                  <desc><label xml:lang="de">Arbeitsgemeinschaft für germanistische Edition (<ref target="https://www.ag-edition.org/">AGE</ref>) – Mitglied</label></desc>
+                  <desc><label xml:lang="en">Arbeitsgemeinschaft für germanistische Edition (<ref target="https://www.ag-edition.org/">AGE</ref>) – member</label></desc>
                </org>
             </listOrg>
          </sourceDesc>
