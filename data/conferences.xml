@@ -12,14 +12,41 @@
             <listEvent type="conference">
                <event type="future">
                   <desc>
+                     <label>Jahrestagung der Gesellschaft für Musikforschung</label>
+                     <orgName>Humbold-Universität zu Berlin</orgName>
+                     <settlement>Bonn</settlement>
+                     <date from-custom="2021-09-28" to-custom="2021-10-01"/>
+                     <desc type="contribution" subtype="confTalk">Projektvorstellung: Digitale Hans Werner Henze Briefausgabe</desc>
+                  </desc>
+               </event>
+               <event type="future">
+                  <desc>
                      <label>Plenartagung »Edition als Vermittlung«</label>
                      <orgName>Universität Klagenfurt/AG germanistische Edition</orgName>
                      <settlement>Klagenfurt</settlement>
-                     <date from-custom="2022-01-16" to-custom="2022-02-19"/>
+                     <date from-custom="2022-09-21" to-custom="2022-09-24"/>
                      <desc type="contribution" subtype="confTalk">Digitale Edition im Komponisten-Portal</desc>
                   </desc>
                </event>
                <event type="future">
+                  <desc>
+                     <label>Edirom Summer-School</label>
+                     <orgName>Universität Paderborn/HfM Detmold</orgName>
+                     <settlement>Paderborn</settlement>
+                     <date from-custom="2021-09-05" to-custom="2021-09-09"/>
+                  </desc>
+               </event>
+               <event type="future">
+                  <desc>
+                     <label>Music-Encoding-Conference</label>
+                     <orgName>Dalhousie University (CA)</orgName>
+                     <settlement>Halifax (CA)/online</settlement>
+                     <date from-custom="2021-05-19" to-custom="2021-07-22"/>
+                     <desc type="contribution" subtype="confPoster">»Play it again, Sam« – levels of complexity in encoding performance personnel
+                     </desc>
+                  </desc>
+               </event>
+               <event type="past">
                   <desc>
                      <label>Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</label>
                      <orgName>Universität Bonn/Beethoven-Haus</orgName>
@@ -141,6 +168,14 @@
                </event>
             </listEvent>
             <listEvent type="workshop">
+               <event type="past">
+                  <desc>
+                     <label>Winter school: Digitale Editionen – Interface Design</label>
+                     <orgName>Universität Wuppertal</orgName>
+                     <settlement>Wuppertal</settlement>
+                     <date from-custom="2022-03-21" to-custom="2022-04-25"/>
+                  </desc>
+               </event>
                <event type="past">
                   <desc>
                      <label>Music-Encoding-Conference</label>
