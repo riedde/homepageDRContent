@@ -9,5 +9,5 @@
     <target>homepageDRContent</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
-    <permissions user="guest" password="empty" group="guest" mode="rwxrwxr-x"/>
+    <permissions user="homepage" password="6Wv1BfgHZhgvU6OHgWjS6Wn0BYUqbxEwmKwIUTgHt80C6qrwnP" group="homepage" mode="r-xr-xr-x"/>
 <deployed>2021-01-02T13:49:48.864+01:00</deployed></meta>

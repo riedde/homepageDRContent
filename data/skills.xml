@@ -21,6 +21,14 @@
                      <date from-custom="2020-11" to-custom="2021-03"/>
                   </desc>
                </event>
+               <event type="training">
+                  <desc>
+                     <label>Winter school: Digitale Editionen – Interface Design</label>
+                     <orgName>Universität Wuppertal</orgName>
+                     <settlement>Wuppertal</settlement>
+                     <date from-custom="2022-03-21" to-custom="2022-04-25"/>
+                  </desc>
+               </event>
             </listEvent>
          </sourceDesc>
       </fileDesc>
@@ -40,9 +48,9 @@
                   <item>XSLT</item>
                   <item>ODD Schema (TEI/MEI)</item>
                   <item>RelaxNG</item>
-                  <item>Schematron (Grundlagen)</item>
+                  <item>Schematron</item>
                   <item>eXist-db</item>
-                  <item>ANT (Grundlagen)</item>
+                  <item>ANT (build Prozesse)</item>
                   <item>HTML 5</item>
                   <item>CSS 3</item>
                   <item>Bootstrap 4+</item>
@@ -57,7 +65,7 @@
                JRA ist ein Projekt, in dem ein solides Datenmanagement, offene Kommunikation, wissenschaftliche Sorgfalt und anwendungsspezifische technische Lösungen die Qualität und Präsentation der Forschungnsdaten sicher stellen. Nur in Kombination können
                all diese Fachbereiche zu einem zeitgemäßen Ergebnis führen.</p>
             <p style="subheading mb-3">Spezialisierung</p>
-            <p>MEI-Metadatenkodierung, Transformationsprozesse, Online-Portale, Forschungsdatenmanagement</p>
+            <p>Online-Portale, Forschungsdatenmanagement, Edirom-Software, MEI-Metadatenkodierung, Datentransformationsprozesse.</p>
          </div>
          <div xml:lang="en">
             <p style="subheading mb-3">All »just« Code</p>
@@ -71,9 +79,9 @@
                   <item>XSLT</item>
                   <item>ODD Schema (TEI/MEI)</item>
                   <item>RelaxNG</item>
-                  <item>Schematron (basics)</item>
+                  <item>Schematron</item>
                   <item>eXist-db</item>
-                  <item>ANT (basics)</item>
+                  <item>ANT (build processes)</item>
                   <item>HTML 5</item>
                   <item>CSS 3</item>
                   <item>Bootstrap 4+</item>
@@ -87,7 +95,7 @@
             <p>By using scientific expertise and technical skills, projects like the <ref target="https://portal.raff-archiv.ch/index.html">online portal</ref> of the Joachim Raff Archives (JRA) can be realised. The JRA portal is a project in which solid data
                management, open communication, scientific diligence and application-specific technical solutions ensure the quality and presentation of research data. Only in combination can all these disciplines lead to a contemporary result.</p>
             <p style="subheading mb-3">Specialisation</p>
-            <p>MEI metadata encoding, transformation processe, online portals</p>
+            <p>Online portals, research data managment, Edirom-software, MEI metadata encoding, data transformation processes.</p>
          </div>
       </body>
    </text>
