@@ -1,10 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00030"><teiHeader><fileDesc><titleStmt><title>Beitrag: Online-Portal des
-                        Joachim-Raff-Archivs (JRA)</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="commitment" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00030">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beitrag: Online-Portal des Joachim-Raff-Archivs (JRA)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="commitment" instant="false">
                   <desc>
-                     <label xml:lang="de">Online-Portal des
-                        Joachim-Raff-Archivs (<ref target="https://portal.raff-archiv.ch/index.html">JRA</ref>)</label>
-                     <label xml:lang="en">Online-Portal of
-                        Joachim-Raff-Archive (<ref target="https://portal.raff-archiv.ch/index.html">JRA</ref>)</label>
+                     <label xml:lang="de">Online-Portal des Joachim-Raff-Archivs (<ref target="https://portal.raff-archiv.ch/index.html">JRA</ref>)</label>
+                     <label xml:lang="en">Online-Portal of Joachim-Raff-Archive (<ref target="https://portal.raff-archiv.ch/index.html">JRA</ref>)</label>
                      <date from-custom="2018" instant="false"/>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

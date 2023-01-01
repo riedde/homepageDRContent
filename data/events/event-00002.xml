@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00002"><teiHeader><fileDesc><titleStmt><title>Konferenz: Plenartagung »Edition als Vermittlung«</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Plenartagung »Edition als Vermittlung«</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference" instant="false">
                   <desc>
                      <label>Plenartagung »Edition als Vermittlung«</label>
                      <orgName instant="false" full="yes">Universität Klagenfurt/AG germanistische Edition</orgName>
@@ -6,4 +18,14 @@
                      <date from-custom="2022-09-21" to-custom="2022-09-24" instant="false"/>
                      <desc type="contribution" subtype="confTalk">Digitale Edition im Komponisten-Portal</desc>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

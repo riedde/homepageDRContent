@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0012"><teiHeader><fileDesc><titleStmt><title>Poster: Creating, transforming and representing data at Baumann-Digital and Joachim-Raff-Archiv</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="poster">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poster: Creating, transforming and representing data at Baumann-Digital and Joachim-Raff-Archiv</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="poster">
                   <analytic>
                      <title>Creating, transforming and representing data at Baumann-Digital and Joachim-Raff-Archiv</title>
                      <author>Ried, Dennis</author>
@@ -10,4 +22,14 @@
                         <pubPlace>Paderborn</pubPlace>
                      </imprint>
                   </monogr>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

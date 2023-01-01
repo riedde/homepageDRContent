@@ -1,8 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0017"><teiHeader><fileDesc><titleStmt><title>Edition: Vokalwerke mit Orgelbegleitung und weiteren Instrumenten</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="edition">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edition: Vokalwerke mit Orgelbegleitung und weiteren Instrumenten</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="edition">
                   <monogr>
                      <title>Vokalwerke mit Orgelbegleitung und weiteren Instrumenten</title>
                      <author>Max Reger</author>
-                     <editor>Alexander Becker</editor><editor>Christopher Grafschmidt</editor><editor>Stefan König</editor>
+                     <editor>Alexander Becker</editor>
+                     <editor>Christopher Grafschmidt</editor>
+                     <editor>Stefan König</editor>
                      <editor role="collaboration">Stefanie Steiner-Grage</editor>
                      <editor role="collaboration">Dennis Ried</editor>
                      <imprint>
@@ -17,4 +31,14 @@
                      <biblScope unit="section">II</biblScope>
                      <title type="section">Lieder und Chöre</title>
                   </series>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

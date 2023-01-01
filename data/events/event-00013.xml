@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00013"><teiHeader><fileDesc><titleStmt><title>Konferenz: Music-Encoding-Conference</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Music-Encoding-Conference</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference" instant="false">
                   <desc>
                      <label>Music-Encoding-Conference</label>
                      <orgName instant="false" full="yes">Tufts University Boston</orgName>
                      <settlement>online</settlement>
                      <date from-custom="2020-05-26" to-custom="2020-05-29" instant="false"/>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

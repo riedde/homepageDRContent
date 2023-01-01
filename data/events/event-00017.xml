@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00017"><teiHeader><fileDesc><titleStmt><title>Konferenz: Edirom-Summer-School</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Edirom-Summer-School</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference" instant="false">
                   <desc>
                      <label>Edirom-Summer-School</label>
                      <orgName instant="false" full="yes">Universität Paderborn/HfM Detmold</orgName>
@@ -6,4 +18,14 @@
                      <date from-custom="2017-09-18" to-custom="2017-09-22" instant="false"/>
                      <desc type="contribution" subtype="confPoster">BauDi – Digitales Konvolut und weiter?</desc>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

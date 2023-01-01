@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0020"><teiHeader><fileDesc><titleStmt><title>Artikel: Reger. Complete Works for Clarinet and Piano</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article" subtype="booklet">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0020">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: Reger. Complete Works for Clarinet and Piano</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article" subtype="booklet">
                   <analytic>
                      <author>Ried, Dennis</author>
                      <title>Reger. Complete Works for Clarinet and Piano</title>
@@ -10,4 +22,14 @@
                         <date when-custom="2016">2016</date>
                      </imprint>
                   </monogr>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

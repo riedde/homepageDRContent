@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0019"><teiHeader><fileDesc><titleStmt><title>Edition: Werke für gemischten Chor a cappella II</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="edition">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edition: Werke für gemischten Chor a cappella II</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="edition">
                   <monogr>
                      <title>Werke für gemischten Chor a cappella II</title>
                      <author>Max Reger</author>
@@ -18,4 +30,14 @@
                      <biblScope unit="section">II</biblScope>
                      <title type="section">Lieder und Chöre</title>
                   </series>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

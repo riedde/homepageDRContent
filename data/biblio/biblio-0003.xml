@@ -1,12 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0003"><teiHeader><fileDesc><titleStmt><title>Artikel: Scherzo g-Moll WoO II/1 und Harmonies funèbres WoO II/4. Erfahrungsbericht über die
-                        Anfertigung von Stimmenmaterial</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: Scherzo g-Moll WoO II/1 und Harmonies funèbres WoO II/4. Erfahrungsbericht über die Anfertigung von Stimmenmaterial</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
                   <analytic>
                      <author>Fütterer, Daniel</author>
                      <author>Gawlok, Judith</author>
                      <author>Lamprecht, Annelie </author>
                      <author>Ried, Dennis</author>
-                     <title>Scherzo g-Moll WoO II/1 und Harmonies funèbres WoO II/4. Erfahrungsbericht über die
-                        Anfertigung von Stimmenmaterial</title>
+                     <title>Scherzo g-Moll WoO II/1 und Harmonies funèbres WoO II/4. Erfahrungsbericht über die Anfertigung von Stimmenmaterial</title>
                   </analytic>
                   <monogr>
                      <title>Mitteilungen</title>
@@ -18,4 +28,14 @@
                         <date when-custom="2016">2016</date>
                      </imprint>
                   </monogr>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

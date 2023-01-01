@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0008"><teiHeader><fileDesc><titleStmt><title>Artikel: Der Liebe will ich singen. Hermann Reutters Begegnung mit dem Mittelalter</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: Der Liebe will ich singen. Hermann Reutters Begegnung mit dem Mittelalter</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
                   <analytic>
                      <author>Ried, Dennis</author>
                      <title>Der Liebe will ich singen. Hermann Reutters Begegnung mit dem Mittelalter</title>
@@ -14,6 +26,16 @@
                      <biblScope from="155" to="176"/>
                   </monogr>
                   <series><title>Klang – Wort – Ereignis. Schriftenreihe der Hochschule für Musik Karlsruhe</title>
-                      <biblScope unit="issue">4</biblScope> 
+                     <biblScope unit="issue">4</biblScope>
                   </series>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

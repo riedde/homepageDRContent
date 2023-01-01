@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00007"><teiHeader><fileDesc><titleStmt><title>Konferenz: Music-Encoding-Conference</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Music-Encoding-Conference</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference" instant="false">
                   <desc>
                      <label>Music-Encoding-Conference</label>
                      <orgName instant="false" full="yes">University of Alicante (E)</orgName>
@@ -6,4 +18,14 @@
                      <date from-custom="2021-07-19" to-custom="2021-07-22" instant="false"/>
                      <desc type="contribution" subtype="confTalk">METAdata and metaDATA</desc>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

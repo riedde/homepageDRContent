@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0026"><teiHeader><fileDesc><titleStmt><title>Seminararbeit: Licht, Wetter und Farben in Gottfried Kellers »Romeo und Julia auf dem Dorfe«</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="termPaper">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seminararbeit: Licht, Wetter und Farben in Gottfried Kellers »Romeo und Julia auf dem Dorfe«</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="termPaper">
                   <monogr>
                      <title>Licht, Wetter und Farben in Gottfried Kellers »Romeo und Julia auf dem Dorfe«</title>
                      <author>Dennis Ried</author>
@@ -8,4 +20,14 @@
                      </imprint>
                      <biblScope unit="page"/>
                   </monogr>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

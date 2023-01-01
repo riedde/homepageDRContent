@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>About Dennis Ried</title>
@@ -16,7 +16,7 @@
                <person sex="male">
                   <idno type="ORCID">https://orcid.org/0000-0001-5545-2088</idno>
                   <idno type="VIAF">http://viaf.org/viaf/18157038080566862515</idno>
-                  <idno type="GND">	http://d-nb.info/gnd/1091567573</idno>
+                  <idno type="GND"> http://d-nb.info/gnd/1091567573</idno>
                   <persName>
                      <forename>Dennis</forename>
                      <surname>Ried</surname>
@@ -96,15 +96,15 @@
                      <desc xml:lang="de">Struktureller Aufbau der Editionstools (Edirom), Zuarbeit für die Editoren der Reger-Werkausgabe (Scannen, Transkribieren, XML-Auszeichnung)</desc>
                      <desc xml:lang="en">Structural development of the edition tools (Edirom Online), support for the editors of the Reger-Werkausgabe (scanning, transcribing, XML markup)</desc>
                   </occupation>
-                     <occupation>
-                        <label xml:lang="de">Gesellschafter</label>
-                        <label xml:lang="en">Shareholder</label>
-                        <orgName xml:lang="de">Edition Lilienteich Karlsruhe</orgName>
-                        <orgName xml:lang="en">Edition Lilienteich Karlsruhe</orgName>
-                        <date from-custom="2015-09" to-custom="2020-12"/>
-                        <desc xml:lang="de">Unternehmensverwaltung, Finanzen, Edition</desc>
-                        <desc xml:lang="en">Business management, finance, edition</desc>
-                     </occupation>
+                  <occupation>
+                     <label xml:lang="de">Gesellschafter</label>
+                     <label xml:lang="en">Shareholder</label>
+                     <orgName xml:lang="de">Edition Lilienteich Karlsruhe</orgName>
+                     <orgName xml:lang="en">Edition Lilienteich Karlsruhe</orgName>
+                     <date from-custom="2015-09" to-custom="2020-12"/>
+                     <desc xml:lang="de">Unternehmensverwaltung, Finanzen, Edition</desc>
+                     <desc xml:lang="en">Business management, finance, edition</desc>
+                  </occupation>
                   <occupation>
                      <label xml:lang="de">Studentische Hilfskraft</label>
                      <label xml:lang="en">Student assistant</label>
@@ -128,8 +128,8 @@
             </listPerson>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <div xml:lang="en">
             <p>Digital research data with high indexing depth and of high quality help us to achieve valid results beyond the limits of our own research question. That is why I support the development of data resources and the discourses of the departments of Digital Musicology and Digital Humanities through active participation.</p>
@@ -138,5 +138,5 @@
             <p>Digitale Forschungsdaten mit hoher Erschließungstiefe und von hoher Qualität helfen uns, über die Grenzen der eigenen Forschungsfrage hinaus, valide Ergebnisse zu erzielen. Deshalb unterstütze ich den Aufbau von Datenbeständen und die Diskurse der Fachbereiche Digitalen Musikwissenschaft und Digital Humanities durch aktive Teilnahme.</p>
          </div>
       </body>
-  </text>
+   </text>
 </TEI>

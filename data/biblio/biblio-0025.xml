@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0025"><teiHeader><fileDesc><titleStmt><title>Seminararbeit: Kommunikationsprobleme. Aspekte der Fingerepisoden in Ulrichs von Liechtenstein »Frauendienst«</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="termPaper">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0025">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seminararbeit: Kommunikationsprobleme. Aspekte der Fingerepisoden in Ulrichs von Liechtenstein »Frauendienst«</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="termPaper">
                   <monogr>
                      <title>Kommunikationsprobleme. Aspekte der Fingerepisoden in Ulrichs von Liechtenstein »Frauendienst«</title>
                      <author>Dennis Ried</author>
@@ -8,4 +20,14 @@
                      </imprint>
                      <biblScope unit="page"/>
                   </monogr>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

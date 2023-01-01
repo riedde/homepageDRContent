@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0004"><teiHeader><fileDesc><titleStmt><title>Artikel: Zwischen Komposition, Aufführung und Herausgabe. Zur Arbeit Max Regers mit August Schmid-Lindner</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0004">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: Zwischen Komposition, Aufführung und Herausgabe. Zur Arbeit Max Regers mit August Schmid-Lindner</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
                   <analytic>
                      <author>Ried, Dennis</author>
                      <title>Zwischen Komposition, Aufführung und Herausgabe. Zur Arbeit Max Regers mit August Schmid-Lindner</title>
@@ -13,4 +25,14 @@
                         <pubPlace>Karlsruhe</pubPlace>
                      </imprint>
                   </monogr>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

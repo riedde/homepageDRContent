@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0011"><teiHeader><fileDesc><titleStmt><title>Artikel: Musikalische Schrift und Digitalität. Ein Werkstattbericht</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0011">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: Musikalische Schrift und Digitalität. Ein Werkstattbericht</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
                   <analytic>
                      <title>Musikalische Schrift und Digitalität. Ein Werkstattbericht</title>
                      <author>Freund, Julia</author>
@@ -13,4 +25,14 @@
                         <date when-custom="2021-01-17">17. Jan. 2021</date>
                      </imprint>
                   </monogr>
-               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

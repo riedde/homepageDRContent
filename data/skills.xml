@@ -37,8 +37,7 @@
       <body>
          <div xml:lang="de">
             <p style="subheading mb-3">Alles »nur« Code</p>
-            <p>Die Inhalte dieser Homepage liegen komplett als TEI-kodierte Daten in XML vor. Dargestellt wird eine HTML5-Seite, die unter Anwendung der X-Technologien (xQuery, XSLT) ausgelesen und aufbereitet, mit Bootstrap 4 (CSS) gestaltet und mittels
-               JavaScript animiert wird.</p>
+            <p>Die Inhalte dieser Homepage liegen komplett als TEI-kodierte Daten in XML vor. Dargestellt wird eine HTML5-Seite, die unter Anwendung der X-Technologien (xQuery, XSLT) ausgelesen und aufbereitet, mit Bootstrap 4 (CSS) gestaltet und mittels JavaScript animiert wird.</p>
             <p style="subheading mb-3">Programmiersprachen &amp; Tools</p>
             <p style="mb-3">
                <list rend="row">
@@ -61,9 +60,7 @@
                </list>
             </p>
             <p style="subheading mb-3">Interdisziplinäre Zusammenarbeit</p>
-            <p>Durch den Einsatz von wissenschaftlicher Expertise und technischen Fähigkeiten lassen sich Projekte wie das <ref target="https://portal.raff-archiv.ch/index.html">Online-Portal</ref> des Joachim-Raff-Archivs (JRA) realisieren. Das Portal des
-               JRA ist ein Projekt, in dem ein solides Datenmanagement, offene Kommunikation, wissenschaftliche Sorgfalt und anwendungsspezifische technische Lösungen die Qualität und Präsentation der Forschungnsdaten sicher stellen. Nur in Kombination können
-               all diese Fachbereiche zu einem zeitgemäßen Ergebnis führen.</p>
+            <p>Durch den Einsatz von wissenschaftlicher Expertise und technischen Fähigkeiten lassen sich Projekte wie das <ref target="https://portal.raff-archiv.ch/index.html">Online-Portal</ref> des Joachim-Raff-Archivs (JRA) realisieren. Das Portal des JRA ist ein Projekt, in dem ein solides Datenmanagement, offene Kommunikation, wissenschaftliche Sorgfalt und anwendungsspezifische technische Lösungen die Qualität und Präsentation der Forschungnsdaten sicher stellen. Nur in Kombination können all diese Fachbereiche zu einem zeitgemäßen Ergebnis führen.</p>
             <p style="subheading mb-3">Spezialisierung</p>
             <p>Online-Portale, Forschungsdatenmanagement, Hybride Musikedition, Edirom-Software, MEI-Metadatenkodierung, Datentransformationsprozesse.</p>
          </div>
@@ -92,8 +89,7 @@
                </list>
             </p>
             <p style="subheading mb-3">Interdisciplinary cooperation</p>
-            <p>By using scientific expertise and technical skills, projects like the <ref target="https://portal.raff-archiv.ch/index.html">online portal</ref> of the Joachim Raff Archives (JRA) can be realised. The JRA portal is a project in which solid data
-               management, open communication, scientific diligence and application-specific technical solutions ensure the quality and presentation of research data. Only in combination can all these disciplines lead to a contemporary result.</p>
+            <p>By using scientific expertise and technical skills, projects like the <ref target="https://portal.raff-archiv.ch/index.html">online portal</ref> of the Joachim Raff Archives (JRA) can be realised. The JRA portal is a project in which solid data management, open communication, scientific diligence and application-specific technical solutions ensure the quality and presentation of research data. Only in combination can all these disciplines lead to a contemporary result.</p>
             <p style="subheading mb-3">Specialisation</p>
             <p>Online portals, research data managment, hybrid music edition, Edirom-software, MEI metadata encoding, data transformation processes.</p>
          </div>

@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00008"><teiHeader><fileDesc><titleStmt><title>Konferenz: GNDCon 2.0</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00008">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: GNDCon 2.0</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference" instant="false">
                   <desc>
                      <label>GNDCon 2.0</label>
                      <orgName instant="false" full="yes">GND-Kooperative</orgName>
                      <settlement>online</settlement>
                      <date from-custom="2021-06-07" to-custom="2021-06-11" instant="false">7.–11. Juni 2021</date>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

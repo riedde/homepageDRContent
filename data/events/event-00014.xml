@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00014"><teiHeader><fileDesc><titleStmt><title>Konferenz: Music-Encoding-Conference</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00014">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Music-Encoding-Conference</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference" instant="false">
                   <desc>
                      <label>Music-Encoding-Conference</label>
                      <orgName instant="false" full="yes">Universität Paderborn</orgName>
@@ -6,4 +18,14 @@
                      <date from-custom="2019-05-29" to-custom="2019-06-01" instant="false"/>
                      <desc type="contribution" subtype="confPoster">Creating, transforming and representing data at Baumann-Digital and Joachim-Raff-Archiv</desc>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

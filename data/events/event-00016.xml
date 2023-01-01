@@ -1,8 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00016"><teiHeader><fileDesc><titleStmt><title>Konferenz: Edirom-Summer-School</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00016">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Edirom-Summer-School</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference" instant="false">
                   <desc>
                      <label>Edirom-Summer-School</label>
                      <orgName instant="false" full="yes">Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Paderborn</settlement>
                      <date from-custom="2018-09-17" to-custom="2018-09-21" instant="false"/>
                   </desc>
-               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
