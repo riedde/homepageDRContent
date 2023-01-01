@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00018"><teiHeader><fileDesc><titleStmt><title type="past">: Kalliwoda-Tagung</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Kalliwoda-Tagung</label>
+                     <orgName instant="false" full="yes">Universität Paderborn/HfM Detmold</orgName>
+                     <settlement>Donaueschingen</settlement>
+                     <date when-custom="2016-12" instant="false"/>
+                     <desc type="contribution" subtype="confTalk">Digitale Edition von Werken Kalliwodas und der Versuch der Integration in das Onlineangebot der Badischen Landesbibliothek</desc>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

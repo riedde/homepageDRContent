@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00012"><teiHeader><fileDesc><titleStmt><title type="past">: Karajan Music Tech Conference</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Karajan Music Tech Conference</label>
+                     <orgName instant="false" full="yes">Eliette und Herbert von Karajan Institut Salzburg</orgName>
+                     <settlement>online</settlement>
+                     <date when-custom="2020-03-03" instant="false"/>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

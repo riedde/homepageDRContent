@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00010"><teiHeader><fileDesc><titleStmt><title type="past">: Edirom Summer-School</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Edirom Summer-School</label>
+                     <orgName instant="false" full="yes">Universität Paderborn/HfM Detmold</orgName>
+                     <settlement>Paderborn</settlement>
+                     <date from-custom="2020-08-31" to-custom="2020-09-04" instant="false"/>
+                     <desc type="contribution" subtype="lecturer">Edirom/Digitale Musikedition</desc>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

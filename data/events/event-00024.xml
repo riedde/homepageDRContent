@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00024"><teiHeader><fileDesc><titleStmt><title type="past">: Workshop der Task Area 2 (Datenstandards, Qualität und Kuratierung)</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Workshop der Task Area 2 (Datenstandards, Qualität und Kuratierung)</label>
+                     <orgName instant="false" full="yes">NFDI4Culture</orgName>
+                     <settlement>online</settlement>
+                     <date when-custom="2021-05-03" instant="false">3. Mai 2021</date>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

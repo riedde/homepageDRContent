@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00025"><teiHeader><fileDesc><titleStmt><title type="past">: Working Meeting on the topic of MEI Metadata</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Working Meeting on the topic of MEI Metadata</label>
+                     <orgName instant="false" full="yes">Music Encoding Initiative – Metadata interest group</orgName>
+                     <settlement>online</settlement>
+                     <date from-custom="2020-11-02" to-custom="2020-11-04" instant="false">2.–4. November 2020</date>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

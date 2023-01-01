@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00029"><teiHeader><fileDesc><titleStmt><title>: Stellvertretender Vorsitzender des Doktorandenkonvents der Hochschule für Musik Karlsruhe</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event instant="false">
+                  <desc>
+                     <label xml:lang="de">Stellvertretender Vorsitzender des Doktorandenkonvents der <ref target="https://www.hfm-karlsruhe.de/startseite">Hochschule für Musik Karlsruhe</ref></label>
+                     <label xml:lang="en">Vice-Chairman of the Doctoral Students' Convention of the <ref target="https://www.hfm-karlsruhe.de/startseite">Karlsruhe University of Music</ref></label>
+                     <date from-custom="2018" to-custom="2022" instant="false"/>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

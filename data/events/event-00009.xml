@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00009"><teiHeader><fileDesc><titleStmt><title type="past">: Tagung der Arbeitsgemeinschaft für germanistische Edition</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Tagung der Arbeitsgemeinschaft für germanistische Edition</label>
+                     <orgName instant="false" full="yes">Deutsches Literaturarchiv</orgName>
+                     <settlement>Marbach am Neckar</settlement>
+                     <date from-custom="2020-02-12" to-custom="2020-02-15" instant="false">12.–15. Februar 2020</date>
+                     <desc type="contribution" subtype="confTalk">›Epitexte‹ in der Reger-Werkausgabe</desc>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

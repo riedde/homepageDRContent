@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00032"><teiHeader><fileDesc><titleStmt><title>: Reger-Werkausgabe (RWA)</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event instant="false">
+                  <desc>
+                     <label xml:lang="de">Reger-Werkausgabe (<ref target="https://www.reger-werkausgabe.de">RWA</ref>)</label>
+                     <label xml:lang="en">Reger-Edition (<ref target="https://www.reger-werkausgabe.de">RWA</ref>)</label>
+                     <date from-custom="2016" to-custom="2021" instant="false"/>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

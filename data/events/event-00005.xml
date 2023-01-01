@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00005"><teiHeader><fileDesc><titleStmt><title type="past">: Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</label>
+                     <orgName instant="false" full="yes">Universität Bonn/Beethoven-Haus</orgName>
+                     <settlement>Bonn</settlement>
+                     <date from-custom="2021-09-28" to-custom="2021-10-01" instant="false"/>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

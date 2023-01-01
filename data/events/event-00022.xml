@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00022"><teiHeader><fileDesc><titleStmt><title type="past">: Das Konzept Datenmanagementplan</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Das Konzept Datenmanagementplan</label>
+                     <orgName instant="false" full="yes">DINI/nestor AG Forschungsdaten/fdm.nrw</orgName>
+                     <settlement>online</settlement>
+                     <date when-custom="2021-03" instant="false">März 2021</date>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

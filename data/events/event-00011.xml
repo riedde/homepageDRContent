@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00011"><teiHeader><fileDesc><titleStmt><title type="past">: Notensatz im 21. Jahrhundert Entwicklungen und Perspektiven</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+                  <desc>
+                     <label>Notensatz im 21. Jahrhundert Entwicklungen und Perspektiven</label>
+                     <orgName instant="false" full="yes">Universität Mozarteum</orgName>
+                     <settlement>Salzburg</settlement>
+                     <date from-custom="2020-02-17" to-custom="2020-02-18" instant="false"/>
+                     <desc type="contribution" subtype="confPoster">Grenzen der Darstellbarkeit des Notenbildes in komplexen Reger-Partituren</desc>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

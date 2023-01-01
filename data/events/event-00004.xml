@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00004"><teiHeader><fileDesc><titleStmt><title type="future">: Music-Encoding-Conference</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="future" instant="false">
+                  <desc>
+                     <label>Music-Encoding-Conference</label>
+                     <orgName instant="false" full="yes">Dalhousie University (CA)</orgName>
+                     <settlement>Halifax (CA)/online</settlement>
+                     <date from-custom="2021-05-19" to-custom="2021-07-22" instant="false"/>
+                     <desc type="contribution" subtype="confPoster">»Play it again, Sam« – levels of complexity in encoding performance personnel
+                     </desc>
+                  </desc>
+               </event></listEvent></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
