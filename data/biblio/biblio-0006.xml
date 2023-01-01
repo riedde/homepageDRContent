@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0006"><teiHeader><fileDesc><titleStmt><title>Artikel: Vorwort</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article" subtype="preface">
+                  <analytic>
+                     <author>Ried, Dennis</author>
+                     <title>Vorwort</title>
+                  </analytic>
+                  <monogr>
+                     <author>Raff, Joachim</author>
+                     <title>Welt-Ende – Gericht – Neue Welt op. 212</title>
+                     <imprint>
+                        <pubPlace>München</pubPlace>
+                        <publisher>Musikproduktion Höflich</publisher>
+                        <date when-custom="2020">2020</date>
+                     </imprint>
+                     <biblScope unit="volume">4305</biblScope>
+                  </monogr>
+                  <series>
+                     <title>Repertoire Explorer</title>
+                  </series>
+               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

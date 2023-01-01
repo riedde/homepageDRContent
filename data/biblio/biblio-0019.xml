@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0019"><teiHeader><fileDesc><titleStmt><title>Edition: Werke für gemischten Chor a cappella II</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="edition">
+                  <monogr>
+                     <title>Werke für gemischten Chor a cappella II</title>
+                     <author>Max Reger</author>
+                     <editor>Christopher Grafschmidt</editor>
+                     <editor role="collaboration">Nikolaos Beer</editor>
+                     <editor role="collaboration">Stefan König</editor>
+                     <editor role="collaboration">Dennis Ried</editor>
+                     <imprint>
+                        <pubPlace>Stuttgart</pubPlace>
+                        <date when-custom="2021">2021</date>
+                     </imprint>
+                     <biblScope unit="volume">9</biblScope>
+                  </monogr>
+                  <series>
+                     <title>Max Reger Werkausgabe. Wissenschaftlich-kritische Hybrid-Edition von Werken und Quellen</title>
+                     <editor>Susanne Popp</editor><editor>Thomas Seedorf</editor>
+                     <biblScope unit="section">II</biblScope>
+                     <title type="section">Lieder und Chöre</title>
+                  </series>
+               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

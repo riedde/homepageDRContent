@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0004"><teiHeader><fileDesc><titleStmt><title>Artikel: Zwischen Komposition, Aufführung und Herausgabe. Zur Arbeit Max Regers mit August Schmid-Lindner</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article">
+                  <analytic>
+                     <author>Ried, Dennis</author>
+                     <title>Zwischen Komposition, Aufführung und Herausgabe. Zur Arbeit Max Regers mit August Schmid-Lindner</title>
+                  </analytic>
+                  <monogr>
+                     <title>Mitteilungen</title>
+                     <editor>Almut Ochsmann im Auftrag der Internationalen Max-Reger-Gesellschaft</editor>
+                     <imprint>
+                        <biblScope from="7" to="15"/>
+                        <biblScope unit="issue">35</biblScope>
+                        <date when-custom="2019">2019</date>
+                        <pubPlace>Karlsruhe</pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>

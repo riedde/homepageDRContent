@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0007"><teiHeader><fileDesc><titleStmt><title>Artikel: Erhebung, Transformation und Präsentation digitaler Forschungsdaten</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listBibl><biblStruct type="article">
+                  <analytic>
+                     <author>Ried, Dennis</author>
+                     <title>Erhebung, Transformation und Präsentation digitaler Forschungsdaten</title>
+                     <ref target="https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-727405">Artikel</ref>
+                  </analytic>
+                  <monogr>
+                     <title>Brückenschläge zwischen Musikwissenschaft und Informatik. Theoretische und praktische
+                        Aspekte der Kooperation</title>
+                     <editor>Acquavella-Rauch, Stefanie</editor>
+                     <editor>Münzmay, Andreas</editor>
+                     <editor>Veit, Joachim</editor>
+                     <imprint>
+                        <publisher>musiconn.publish</publisher>
+                        <date when-custom="2020">2020</date>
+                     </imprint>
+                     <biblScope from="41" to="45"/>
+                  </monogr>
+                  <series><title>Musikwissenschaft: Aktuelle Perspektiven</title>
+                     <biblScope unit="issue">3</biblScope></series>
+               </biblStruct></listBibl></sourceDesc></fileDesc></teiHeader><text><body><p/></body></text></TEI>
