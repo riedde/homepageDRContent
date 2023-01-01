@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00025"><teiHeader><fileDesc><titleStmt><title type="past">: Working Meeting on the topic of MEI Metadata</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00025"><teiHeader><fileDesc><titleStmt><title>Konferenz: Working Meeting on the topic of MEI Metadata</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
                   <desc>
                      <label>Working Meeting on the topic of MEI Metadata</label>
                      <orgName instant="false" full="yes">Music Encoding Initiative – Metadata interest group</orgName>

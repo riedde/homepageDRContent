@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00031"><teiHeader><fileDesc><titleStmt><title>: Baumann-Digital – Promotionsbegleitendes Projekt (BauDi)</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00031"><teiHeader><fileDesc><titleStmt><title>Beitrag: Baumann-Digital – Promotionsbegleitendes Projekt (BauDi)</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="commitment" instant="false">
                   <desc>
                      <label xml:lang="de">Baumann-Digital – Promotionsbegleitendes Projekt (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
                      <label xml:lang="en">Baumann-Digital – PhD project (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00012"><teiHeader><fileDesc><titleStmt><title type="past">: Karajan Music Tech Conference</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00012"><teiHeader><fileDesc><titleStmt><title>Konferenz: Karajan Music Tech Conference</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
                   <desc>
                      <label>Karajan Music Tech Conference</label>
                      <orgName instant="false" full="yes">Eliette und Herbert von Karajan Institut Salzburg</orgName>

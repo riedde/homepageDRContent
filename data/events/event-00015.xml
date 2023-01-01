@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00015"><teiHeader><fileDesc><titleStmt><title type="past">: Edirom-Summer-School</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00015"><teiHeader><fileDesc><titleStmt><title>Konferenz: Edirom-Summer-School</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
                   <desc>
                      <label>Edirom-Summer-School</label>
                      <orgName instant="false" full="yes">Universität Paderborn/HfM Detmold</orgName>

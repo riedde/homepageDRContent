@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00033"><teiHeader><fileDesc><titleStmt><title>: Karlsruhe 2016: Kultur
-                           Klingt!</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00033"><teiHeader><fileDesc><titleStmt><title>Beitrag: Karlsruhe 2016: Kultur
+                           Klingt!</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="commitment" instant="false">
                   <desc>
                      <label xml:lang="de">Karlsruhe 2016: <ref target="https://lilienteich.de/?page_id=49">Kultur
                            Klingt!</ref></label>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00023"><teiHeader><fileDesc><titleStmt><title type="past">: eXist-bootcamp: xQuery + eXist-db for Humanists</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00023"><teiHeader><fileDesc><titleStmt><title>Konferenz: eXist-bootcamp: xQuery + eXist-db for Humanists</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
                   <desc>
                      <label>eXist-bootcamp: xQuery + eXist-db for Humanists</label>
                      <orgName instant="false" full="yes">Université Lumière Lyon 2</orgName>

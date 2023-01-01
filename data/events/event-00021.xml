@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00021"><teiHeader><fileDesc><titleStmt><title type="past">: ›Digital Winter School‹ 2021: »A FAIRground«. Forschungsdatenmanagement</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="past" instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00021"><teiHeader><fileDesc><titleStmt><title>Konferenz: ›Digital Winter School‹ 2021: »A FAIRground«. Forschungsdatenmanagement</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="conference" instant="false">
                   <desc>
                      <label>›Digital Winter School‹ 2021: »A FAIRground«. Forschungsdatenmanagement</label>
                      <orgName instant="false" full="yes">Universitätsbibliothek Hildesheim</orgName>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00026"><teiHeader><fileDesc><titleStmt><title>: Edirom Online – Software für Musikeditonen | Entwicklung</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00026"><teiHeader><fileDesc><titleStmt><title>Beitrag: Edirom Online – Software für Musikeditonen | Entwicklung</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="commitment" instant="false">
                      <desc>
                         <label xml:lang="de"><ref target="https://github.com/Edirom/Edirom-Online">Edirom Online</ref> – Software für Musikeditonen | Entwicklung</label>
                         <label xml:lang="en"><ref target="https://github.com/Edirom/Edirom-Online">Edirom Online</ref> – Software for music editions | development</label>

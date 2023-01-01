@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00028"><teiHeader><fileDesc><titleStmt><title>: Digitale Erschließung der »Mitteilungen der Internationale Max Reger
-                        Gesellschaft (IMRG)</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event instant="false">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00028"><teiHeader><fileDesc><titleStmt><title>Beitrag: Digitale Erschließung der »Mitteilungen der Internationale Max Reger
+                        Gesellschaft (IMRG)</title></titleStmt><publicationStmt><p>Published on https://dennisried.de</p></publicationStmt><sourceDesc><listEvent><event type="commitment" instant="false">
                   <desc>
                      <label xml:lang="de">Digitale Erschließung der »<ref target="https://journals.qucosa.de/mimrg">Mitteilungen</ref> der Internationale Max Reger
                         Gesellschaft (<ref target="https://imrg.de/">IMRG</ref>)</label>
