@@ -29,7 +29,7 @@
                      <placeName>Karlsruhe</placeName>
                      <date from-custom="2017-12"/>
                      <note type="subject" xml:lang="en">PhD studies (Musicology)</note>
-                     <note type="subject" xml:lang="de">Promotionsstudium</note>
+                     <note type="subject" xml:lang="de">Promotionsstudium (Musikwissenschaft)</note>
                   </education>
                   <education>
                      <orgName xml:lang="en">University of Music</orgName>
@@ -120,6 +120,7 @@
                      <email>ried-musikforschung@mail.de</email>
                   </residence>
                   <link target="github https://github.com/riedde"/>
+                  <link target="mastodon https://fedihum.org/@riedde"/>
                   <link target="twitter https://twitter.com/riedde"/>
                   <link target="linkedin https://www.linkedin.com/in/dennis-ried-a75814148"/>
                   <link target="facebook https://www.facebook.com/dennis.ried.1989"/>
