@@ -10,17 +10,19 @@
          </publicationStmt>
          <sourceDesc>
             <listBibl>
-               <biblStruct type="article" status="inThePipe">
+               <biblStruct type="article">
                   <analytic>
                      <title>METAdata and metaDATA</title>
                      <author>Gubsch, Clemens</author>
                      <author>Ried, Dennis</author>
-                     <ref target="link">Music Encoding Conference Proceedings 2021</ref>
+                     <ref target="https://doi.org/10.17613/fc1c-mx52">https://doi.org/10.17613/fc1c-mx52</ref>
                   </analytic>
                   <monogr>
-                     <title>Music Encoding Conference Proceedings 2021</title>
+                     <title>Music Encoding Conference Proceedings 2021. 19–22 July, 2021 University of Alicante (Spain)</title>
+                     <editor>Münnich, Stefan</editor>
+                     <editor>Rizo, David</editor>
                      <imprint>
-                        <date when-custom="2021-09">2021</date>
+                        <date when-custom="2022-05">2022</date>
                         <publisher>Humanities Commons</publisher>
                      </imprint>
                   </monogr>
