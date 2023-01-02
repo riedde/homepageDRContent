@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Plenartagung »Edition als Vermittlung«</label>
-                     <orgName instant="false" full="yes">Universität Klagenfurt/AG germanistische Edition</orgName>
+                     <orgName full="yes">Universität Klagenfurt/AG germanistische Edition</orgName>
                      <settlement>Klagenfurt</settlement>
-                     <date from-custom="2022-09-21" to-custom="2022-09-24" instant="false"/>
+                     <date from-custom="2022-09-21" to-custom="2022-09-24"/>
                      <desc type="contribution" subtype="confTalk">Digitale Edition im Komponisten-Portal</desc>
                   </desc>
                </event>

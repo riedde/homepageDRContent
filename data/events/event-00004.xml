@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Music-Encoding-Conference</label>
-                     <orgName instant="false" full="yes">Dalhousie University (CA)</orgName>
+                     <orgName full="yes">Dalhousie University (CA)</orgName>
                      <settlement>Halifax (CA)/online</settlement>
-                     <date from-custom="2021-05-19" to-custom="2021-07-22" instant="false"/>
+                     <date from-custom="2021-05-19" to-custom="2021-07-22"/>
                      <desc type="contribution" subtype="confPoster">»Play it again, Sam« – levels of complexity in encoding performance personnel </desc>
                   </desc>
                </event>

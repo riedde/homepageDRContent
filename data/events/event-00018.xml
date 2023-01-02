@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Kalliwoda-Tagung</label>
-                     <orgName instant="false" full="yes">Universität Paderborn/HfM Detmold</orgName>
+                     <orgName full="yes">Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Donaueschingen</settlement>
-                     <date when-custom="2016-12" instant="false"/>
+                     <date when-custom="2016-12"/>
                      <desc type="contribution" subtype="confTalk">Digitale Edition von Werken Kalliwodas und der Versuch der Integration in das Onlineangebot der Badischen Landesbibliothek</desc>
                   </desc>
                </event>

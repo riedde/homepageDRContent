@@ -10,7 +10,7 @@
          </publicationStmt>
          <sourceDesc>
             <listOrgs>
-               <org instant="false">
+               <org>
                   <desc><label xml:lang="de">Gesellschaft für Musikforschung (<ref target="https://www.musikforschung.de/">GfM</ref>)</label></desc>
                   <desc><label xml:lang="en">(German) <ref target="https://www.musikforschung.de/">Society</ref> of Musicology</label></desc>
                </org>

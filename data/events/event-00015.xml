@@ -3,19 +3,19 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Konferenz: Edirom-Summer-School</title>
+            <title>Konferenz: 11. Edirom-Summer-School</title>
          </titleStmt>
          <publicationStmt>
             <p>Published on https://dennisried.de</p>
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
-                     <label>Edirom-Summer-School</label>
-                     <orgName instant="false" full="yes">Universität Paderborn/HfM Detmold</orgName>
+                     <label>11. Edirom-Summer-School</label>
+                     <orgName full="yes">Universität Paderborn/HfM Detmold</orgName>
                      <settlement>Paderborn</settlement>
-                     <date from-custom="2019-09-02" to-custom="2019-09-06" instant="false"/>
+                     <date from-custom="2019-09-02" to-custom="2019-09-06"/>
                      <desc type="contribution" subtype="confPoster">Daten, Daten, Daten -- Händische Listen vs. automatisierte Register</desc>
                   </desc>
                </event>

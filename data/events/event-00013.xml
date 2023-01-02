@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Music-Encoding-Conference</label>
-                     <orgName instant="false" full="yes">Tufts University Boston</orgName>
+                     <orgName full="yes">Tufts University Boston</orgName>
                      <settlement>online</settlement>
-                     <date from-custom="2020-05-26" to-custom="2020-05-29" instant="false"/>
+                     <date from-custom="2020-05-26" to-custom="2020-05-29"/>
                   </desc>
                </event>
             </listEvent>

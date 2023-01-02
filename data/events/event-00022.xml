@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Das Konzept Datenmanagementplan</label>
-                     <orgName instant="false" full="yes">DINI/nestor AG Forschungsdaten/fdm.nrw</orgName>
+                     <orgName full="yes">DINI/nestor AG Forschungsdaten/fdm.nrw</orgName>
                      <settlement>online</settlement>
-                     <date when-custom="2021-03" instant="false">März 2021</date>
+                     <date when-custom="2021-03">März 2021</date>
                   </desc>
                </event>
             </listEvent>

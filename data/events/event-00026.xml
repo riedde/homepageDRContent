@@ -10,11 +10,11 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="commitment" instant="false">
+               <event type="commitment">
                   <desc>
                      <label xml:lang="de"><ref target="https://github.com/Edirom/Edirom-Online">Edirom Online</ref> – Software für Musikeditonen | Entwicklung</label>
                      <label xml:lang="en"><ref target="https://github.com/Edirom/Edirom-Online">Edirom Online</ref> – Software for music editions | development</label>
-                     <date from-custom="2021" instant="false"/>
+                     <date from-custom="2021"/>
                   </desc>
                </event>
             </listEvent>

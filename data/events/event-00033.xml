@@ -10,11 +10,11 @@
                   </publicationStmt>
                   <sourceDesc>
                         <listEvent>
-                              <event type="commitment" instant="false">
+                              <event type="commitment">
                                     <desc>
                                           <label xml:lang="de">Karlsruhe 2016: <ref target="https://lilienteich.de/?page_id=49">Kultur Klingt!</ref></label>
                                           <label xml:lang="en">Karlsruhe 2016: <ref target="https://lilienteich.de/?page_id=49">Kultur Klingt!</ref></label>
-                                          <date when-custom="2016" instant="false"/>
+                                          <date when-custom="2016"/>
                                     </desc>
                               </event>
                         </listEvent>

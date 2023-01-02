@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Tagung der Arbeitsgemeinschaft für germanistische Edition</label>
-                     <orgName instant="false" full="yes">Deutsches Literaturarchiv</orgName>
+                     <orgName full="yes">Deutsches Literaturarchiv</orgName>
                      <settlement>Marbach am Neckar</settlement>
-                     <date from-custom="2020-02-12" to-custom="2020-02-15" instant="false">12.–15. Februar 2020</date>
+                     <date from-custom="2020-02-12" to-custom="2020-02-15">12.–15. Februar 2020</date>
                      <desc type="contribution" subtype="confTalk">›Epitexte‹ in der Reger-Werkausgabe</desc>
                   </desc>
                </event>

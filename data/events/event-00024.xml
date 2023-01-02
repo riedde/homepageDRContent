@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Workshop der Task Area 2 (Datenstandards, Qualität und Kuratierung)</label>
-                     <orgName instant="false" full="yes">NFDI4Culture</orgName>
+                     <orgName full="yes">NFDI4Culture</orgName>
                      <settlement>online</settlement>
-                     <date when-custom="2021-05-03" instant="false">3. Mai 2021</date>
+                     <date when-custom="2021-05-03">3. Mai 2021</date>
                   </desc>
                </event>
             </listEvent>

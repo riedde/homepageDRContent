@@ -10,7 +10,7 @@
          </publicationStmt>
          <sourceDesc>
             <listOrgs>
-               <org instant="false">
+               <org>
                   <desc><label xml:lang="de">Virtueller Forschungsverbund Edirom (<ref target="https://edirom.de/">ViFE</ref>)</label></desc>
                   <desc><label xml:lang="en">Virtual Research Association Edirom (<ref target="https://edirom.de/">ViFE</ref>)</label></desc>
                </org>

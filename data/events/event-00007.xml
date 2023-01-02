@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Music-Encoding-Conference</label>
-                     <orgName instant="false" full="yes">University of Alicante (E)</orgName>
+                     <orgName full="yes">University of Alicante (E)</orgName>
                      <settlement>online</settlement>
-                     <date from-custom="2021-07-19" to-custom="2021-07-22" instant="false"/>
+                     <date from-custom="2021-07-19" to-custom="2021-07-22"/>
                      <desc type="contribution" subtype="confTalk">METAdata and metaDATA</desc>
                   </desc>
                </event>

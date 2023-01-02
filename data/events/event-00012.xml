@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Karajan Music Tech Conference</label>
-                     <orgName instant="false" full="yes">Eliette und Herbert von Karajan Institut Salzburg</orgName>
+                     <orgName full="yes">Eliette und Herbert von Karajan Institut Salzburg</orgName>
                      <settlement>online</settlement>
-                     <date when-custom="2020-03-03" instant="false"/>
+                     <date when-custom="2020-03-03"/>
                   </desc>
                </event>
             </listEvent>

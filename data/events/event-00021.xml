@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>›Digital Winter School‹ 2021: »A FAIRground«. Forschungsdatenmanagement</label>
-                     <orgName instant="false" full="yes">Universitätsbibliothek Hildesheim</orgName>
+                     <orgName full="yes">Universitätsbibliothek Hildesheim</orgName>
                      <settlement>online</settlement>
-                     <date when-custom="2021-02-17" instant="false">17. Februar 2021</date>
+                     <date when-custom="2021-02-17">17. Februar 2021</date>
                   </desc>
                </event>
             </listEvent>

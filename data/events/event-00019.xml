@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Winter school: Digitale Editionen – Interface Design</label>
-                     <orgName instant="false" full="yes">Universität Wuppertal</orgName>
+                     <orgName full="yes">Universität Wuppertal</orgName>
                      <settlement>Wuppertal</settlement>
-                     <date from-custom="2022-03-21" to-custom="2022-04-25" instant="false"/>
+                     <date from-custom="2022-03-21" to-custom="2022-04-25"/>
                   </desc>
                </event>
             </listEvent>

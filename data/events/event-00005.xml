@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Musikwissenschaft nach Beethoven. XVII. Internationaler Kongress der Gesellschaft für Musikforschung</label>
-                     <orgName instant="false" full="yes">Universität Bonn/Beethoven-Haus</orgName>
+                     <orgName full="yes">Universität Bonn/Beethoven-Haus</orgName>
                      <settlement>Bonn</settlement>
-                     <date from-custom="2021-09-28" to-custom="2021-10-01" instant="false"/>
+                     <date from-custom="2021-09-28" to-custom="2021-10-01"/>
                   </desc>
                </event>
             </listEvent>

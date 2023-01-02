@@ -10,7 +10,7 @@
          </publicationStmt>
          <sourceDesc>
             <listOrgs>
-               <org instant="false">
+               <org>
                   <desc><label xml:lang="de"><ref target="https://portal.raff-archiv.ch/index.html">Joachim-Raff-Archiv</ref> Lachen/SZ (CH) | Wissenschaftlicher Beirat</label></desc>
                   <desc><label xml:lang="en"><ref target="https://portal.raff-archiv.ch/index.html">Joachim Raff Archive</ref> Lachen/SZ (CH) | Scientific Advisory Board</label></desc>
                </org>

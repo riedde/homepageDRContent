@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00030">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00037">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Beitrag: Online-Portal des Joachim-Raff-Archivs (JRA)</title>
+            <title>Beitrag: Edirom-Summer-School – Tagungsorganisation</title>
          </titleStmt>
          <publicationStmt>
             <p>Published on https://dennisried.de</p>
@@ -12,9 +12,9 @@
             <listEvent>
                <event type="commitment">
                   <desc>
-                     <label xml:lang="de">Online-Portal des Joachim-Raff-Archivs (<ref target="https://portal.raff-archiv.ch/index.html">JRA</ref>)</label>
-                     <label xml:lang="en">Online-Portal of Joachim-Raff-Archive (<ref target="https://portal.raff-archiv.ch/index.html">JRA</ref>)</label>
-                     <date from-custom="2018"/>
+                     <label xml:lang="de"><ref target="https://ess.upb.de/">Edirom-Summer-School</ref> – Tagungsorganisation</label>
+                     <label xml:lang="en"><ref target="https://ess.upb.de/">Edirom-Summer-School</ref> – Conference planning</label>
+                     <date from-custom="2022"/>
                   </desc>
                </event>
             </listEvent>

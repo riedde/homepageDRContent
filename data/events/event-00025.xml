@@ -10,12 +10,12 @@
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference" instant="false">
+               <event type="conference">
                   <desc>
                      <label>Working Meeting on the topic of MEI Metadata</label>
-                     <orgName instant="false" full="yes">Music Encoding Initiative – Metadata interest group</orgName>
+                     <orgName full="yes">Music Encoding Initiative – Metadata interest group</orgName>
                      <settlement>online</settlement>
-                     <date from-custom="2020-11-02" to-custom="2020-11-04" instant="false">2.–4. November 2020</date>
+                     <date from-custom="2020-11-02" to-custom="2020-11-04">2.–4. November 2020</date>
                   </desc>
                </event>
             </listEvent>

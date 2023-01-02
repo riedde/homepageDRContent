@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00023">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00035">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Konferenz: eXist-bootcamp: xQuery + eXist-db for Humanists</title>
+            <title>Konferenz: 14. Edirom-Summer-School</title>
          </titleStmt>
          <publicationStmt>
             <p>Published on https://dennisried.de</p>
@@ -12,10 +12,10 @@
             <listEvent>
                <event type="conference">
                   <desc>
-                     <label>eXist-bootcamp: xQuery + eXist-db for Humanists</label>
-                     <orgName full="yes">Université Lumière Lyon 2</orgName>
-                     <settlement>online</settlement>
-                     <date from-custom="2020-11" to-custom="2021-04"/>
+                     <label>14. Edirom-Summer-School</label>
+                     <orgName>Universität Paderborn</orgName>
+                     <settlement>Paderborn</settlement>
+                     <date from-custom="2023-05-31" to-custom="2023-06-02"/>
                   </desc>
                </event>
             </listEvent>
