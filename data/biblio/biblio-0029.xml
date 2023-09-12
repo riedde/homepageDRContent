@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: »Play it again, Sam« – Levels of Complexity in Encoding Performance Personnel</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
+                  <analytic>
+                     <title>»Play it again, Sam« – Levels of Complexity in Encoding Performance Personnel</title>
+                     <author>Bohl, Benjamin W.</author>
+                     <author>Ried, Dennis</author>
+                     <ref target="https://doi.org/10.17613/xn3g-vs35">https://doi.org/10.17613/xn3g-vs35</ref>
+                  </analytic>
+                  <monogr>
+                     <title>Music Encoding Conference Proceedings 2022. May 19-22, 2022 Dalhousie University (Halifax, Nova Scotia, Canada)</title>
+                     <editor>Weigl, David M.</editor>
+                     <imprint>
+                        <date when-custom="2023-09">2023</date>
+                        <publisher>Humanities Commons</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
