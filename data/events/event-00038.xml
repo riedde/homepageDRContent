@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00034">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00038">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,7 +16,7 @@
                      <orgName>Universität des Saarlandes</orgName>
                      <settlement>Saarbrücken</settlement>
                      <date from-custom="2023-10-04" to-custom="2023-10-07"/>
-                     <desc type="contribution" subtype="confTalk">Methoden und Ziele digitaler Musikwissenschaft: Ein Marktplatz aktueller Forschung</desc>
+                     <desc type="contribution" subtype="confTalk">Projektvorstellung: Digitale Hans Werner Henze Briefausgabe</desc>
                   </desc>
                </event>
             </listEvent>
