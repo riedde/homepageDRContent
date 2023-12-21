@@ -15,7 +15,6 @@
                      <title>METAdata and metaDATA</title>
                      <author>Gubsch, Clemens</author>
                      <author>Ried, Dennis</author>
-                     <ref target="https://doi.org/10.17613/fc1c-mx52">https://doi.org/10.17613/fc1c-mx52</ref>
                   </analytic>
                   <monogr>
                      <title>Music Encoding Conference Proceedings 2021. 19–22 July, 2021 University of Alicante (Spain)</title>
@@ -26,6 +25,7 @@
                         <publisher>Humanities Commons</publisher>
                      </imprint>
                   </monogr>
+                  <ref type="doi" target="https://doi.org/10.17613/fc1c-mx52">10.17613/fc1c-mx52</ref>
                </biblStruct>
             </listBibl>
          </sourceDesc>

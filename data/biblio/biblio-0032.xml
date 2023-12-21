@@ -10,7 +10,7 @@
          </publicationStmt>
          <sourceDesc>
             <listBibl>
-               <biblStruct type="edition">
+               <biblStruct type="dataPub">
                   <monogr>
                      <title>HenDi-ODD, v1.0.0</title>
                      <author>Ried, Dennis</author>

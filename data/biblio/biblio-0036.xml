@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0036">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="qualification" status="inThePipe">
+                  <monogr>
+                     <title>»halb und halb« – Hybride Edition als Kompromiss? Eine Studie zu Methodik, Möglichkeiten und Grenzen in der hybriden Musikedition am Beispiel der Edition von Ludwig Baumanns »Kantate. Den Gefallenen zum Gedächtnis, den Trauernden zum Trost«</title>
+                     <author>Ried, Dennis</author>
+                     <imprint>
+                        <pubPlace>Berlin</pubPlace>
+                        <date when-custom="2024">2024</date>
+                     </imprint>
+                  </monogr>
+                  <!--<ref type="doi" target="https://doi.org/10.5281/zenodo.10391194">10.5281/zenodo.10391194</ref>-->
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

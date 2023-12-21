@@ -10,7 +10,7 @@
          </publicationStmt>
          <sourceDesc>
             <listBibl>
-               <biblStruct type="edition">
+               <biblStruct type="dataPub">
                   <monogr>
                      <title>HenDi-Data (data package), v2.0.0</title>
                      <author>Capelle, Irmlind</author>

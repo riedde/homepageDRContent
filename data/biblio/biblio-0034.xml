@@ -10,7 +10,7 @@
          </publicationStmt>
          <sourceDesc>
             <listBibl>
-               <biblStruct type="edition">
+               <biblStruct type="software">
                   <monogr>
                      <title>HenDi-WebApp, v2.0.0</title>
                      <author>Ried, Dennis</author>
