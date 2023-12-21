@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edition: Henze-Digital, HenDi Data-package v2.0.0</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="edition">
+                  <monogr>
+                     <title>HenDi-Data (data package), v2.0.0</title>
+                     <author>Capelle, Irmlind</author>
+                     <author>Minetti, Elena</author>
+                     <author>Ried, Dennis</author>
+                     <imprint>
+                        <pubPlace>Zenodo.org</pubPlace>
+                        <date when-custom="2023-12">2023</date>
+                     </imprint>
+                  </monogr>
+                  <ref type="doi" target="https://doi.org/10.5281/zenodo.10391419">10.5281/zenodo.10391419</ref>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
