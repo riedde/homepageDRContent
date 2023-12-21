@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
@@ -24,17 +22,24 @@
                   <birth when-iso="1989-12-18"/>
                   <nationality key="de">german</nationality>
                   <education>
-                     <orgName xml:lang="en">University of Music</orgName>
-                     <orgName xml:lang="de">Hochschule für Musik</orgName>
-                     <placeName>Karlsruhe</placeName>
-                     <date from-custom="2017-12"/>
-                     <note type="subject" xml:lang="en">PhD studies (Musicology)</note>
+                     <orgName xml:lang="en">Karlsruhe University of Music</orgName>
+                     <orgName xml:lang="de">Hochschule für Musik Karlsruhe</orgName>
+                     <date when-custom="2023-12"/>
+                     <note type="subject" xml:lang="en">Doctor philosophiae (Musicology)</note>
+                     <note type="subject" xml:lang="de">Doctor philosophiae (Musikwissenschaft)</note>
+                     <note type="grade" subtype="german">magna cum laude</note>
+                     <note type="grade" subtype="GPA">3.7–3.8</note>
+                  </education>
+                  <education>
+                     <orgName xml:lang="en">Karlsruhe University of Music</orgName>
+                     <orgName xml:lang="de">Hochschule für Musik Karlsruhe</orgName>
+                     <date from-custom="2017-12" to-custom="2023-07"/>
+                     <note type="subject" xml:lang="en">Doctoral Studies (Musicology)</note>
                      <note type="subject" xml:lang="de">Promotionsstudium (Musikwissenschaft)</note>
                   </education>
                   <education>
-                     <orgName xml:lang="en">University of Music</orgName>
-                     <orgName xml:lang="de">Hochschule für Musik</orgName>
-                     <placeName>Karlsruhe</placeName>
+                     <orgName xml:lang="en">Karlsruhe University of Music</orgName>
+                     <orgName xml:lang="de">Hochschule für Musik Karlsruhe</orgName>
                      <date from-custom="2015-12" to-custom="2017-09"/>
                      <note type="subject" xml:lang="en">Master of Arts (Musicology)</note>
                      <note type="subject" xml:lang="de">Master of Arts (Musikwissenschaft)</note>
@@ -42,9 +47,8 @@
                      <note type="grade" subtype="GPA">3.9</note>
                   </education>
                   <education>
-                     <orgName xml:lang="en">University of Music</orgName>
-                     <orgName xml:lang="de">Hochschule für Musik</orgName>
-                     <placeName>Karlsruhe</placeName>
+                     <orgName xml:lang="en">Karlsruhe University of Music</orgName>
+                     <orgName xml:lang="de">Hochschule für Musik Karlsruhe</orgName>
                      <date from-custom="2014-10" to-custom="2015-09"/>
                      <note type="subject" xml:lang="en">Bachelor of Arts (Musicology)</note>
                      <note type="subject" xml:lang="de">Bachelor of Arts (Musikwissenschaft)</note>
@@ -121,9 +125,7 @@
                   </residence>
                   <link target="github https://github.com/riedde"/>
                   <link target="mastodon https://fedihum.org/@riedde"/>
-                  <link target="twitter https://twitter.com/riedde"/>
                   <link target="linkedin https://www.linkedin.com/in/dennis-ried-a75814148"/>
-                  <link target="facebook https://www.facebook.com/dennis.ried.1989"/>
                </person>
             </listPerson>
          </sourceDesc>
