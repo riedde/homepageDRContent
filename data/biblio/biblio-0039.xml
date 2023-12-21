@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="qualification" status="unpublished">
+                  <monogr>
+                     <title>Ludwig Baumann – Biographische Aspekte und Konzeption
+                        eines (digitalen) Werkverzeichnisses (Masterthesis)</title>
+                     <author>Ried, Dennis</author>
+                     <imprint>
+                        <pubPlace/>
+                        <date when-custom="2017">2017</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
