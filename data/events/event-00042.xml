@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00038">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Angebotene Lehrveranstaltung: Theorie der (digitalen) Edition: Geschichte, Methodik und Tendenzen</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="course">
+                  <desc>
+                     <label xml:lang="de">Theorie der (digitalen) Edition: Geschichte, Methodik und Tendenzen</label>
+                     <label xml:lang="en">Fundamentals of (Digital) Edition: History, Methods, Tendencies</label>
+                     <date from-custom="2022" to-custom="2023">Wintersemester 2022/2023</date>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

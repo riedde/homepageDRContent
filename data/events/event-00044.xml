@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00039">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Angebotene Lehrveranstaltung: Johann Sebastian Bach: Matthäus-Passion</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="course">
+                  <desc>
+                     <label xml:lang="de">Johann Sebastian Bach: Matthäus-Passion</label>
+                     <label xml:lang="en">Johann Sebastian Bach: St. Matthew Passion</label>
+                     <date when-custom="2023">Sommersemester 2023</date>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
