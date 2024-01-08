@@ -40,7 +40,7 @@
                   <education>
                      <orgName xml:lang="en">Karlsruhe University of Music</orgName>
                      <orgName xml:lang="de">Hochschule für Musik Karlsruhe</orgName>
-                     <date from-custom="2015-12" to-custom="2017-09"/>
+                     <date from-custom="2015-10" to-custom="2017-09"/>
                      <note type="subject" xml:lang="en">Master of Arts (Musicology)</note>
                      <note type="subject" xml:lang="de">Master of Arts (Musikwissenschaft)</note>
                      <note type="grade" subtype="german">1,1</note>
