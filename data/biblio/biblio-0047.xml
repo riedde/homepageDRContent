@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: Ludwig Baumann</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
+                  <analytic>
+                     <title>Ludwig Baumann</title>
+                     <author>Ried, Dennis</author>
+                  </analytic>
+                  <monogr>
+                     <title>Blick in die Geschichte. Karlsruher Stadthistorische Beiträge</title>
+                     <editor>Stadt Karlsruhe</editor>
+                     <imprint>
+                        <date when-custom="2023-11">2023</date>
+                     </imprint>
+                     <biblScope unit="pp" from="1" to="1">1</biblScope>
+                     <biblScope unit="issue">140</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

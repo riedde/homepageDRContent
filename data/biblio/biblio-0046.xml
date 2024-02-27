@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artikel: Die Werkdatensätze von Henze-Digital als Ansätze für ein digitales Werkverzeichnis</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
+                  <analytic>
+                     <title>Die Werkdatensätze von Henze-Digital als Ansätze für ein digitales Werkverzeichnis</title>
+                     <author>Ried, Dennis</author>
+                  </analytic>
+                  <monogr>
+                     <title>DIE TONKUNST. Thema: Digitale Werkverzeichnisse</title>
+                     <editor>DIE TONKUNST</editor>
+                     <imprint>
+                        <date when-custom="2024-01">2024</date>
+                     </imprint>
+                     <biblScope unit="pp" from="50" to="58">50–58</biblScope>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
