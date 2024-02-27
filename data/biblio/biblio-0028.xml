@@ -10,7 +10,7 @@
          </publicationStmt>
          <sourceDesc>
             <listBibl>
-               <biblStruct type="article" status="inThePipe">
+               <biblStruct type="article">
                   <analytic>
                      <author>Ried, Dennis</author>
                      <title>»Epitexte« in der Reger-Werkausgabe</title>
@@ -21,10 +21,10 @@
                      <editor>Jan Hess</editor>
                      <editor>Roland S. Kamzelak(†)</editor>
                      <imprint>
-<!--                     <biblScope from="36" to="36"/>-->
-                       <biblScope unit="volume">54</biblScope>
-                       <date when-custom="2024">2024</date>
-                       <pubPlace/>
+                     <biblScope from="49" to="58"/>
+                     <biblScope unit="volume">54</biblScope>
+                     <date when-custom="2024">2024</date>
+                     <pubPlace/>
                      </imprint>
                   </monogr>
                </biblStruct>
