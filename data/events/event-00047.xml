@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00047">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Angebotene Lehrveranstaltung: Notation und Edition Neuerer Musik</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="course">
+                  <desc>
+                     <label xml:lang="de">Notation und Edition Neuerer Musik</label>
+                     <label xml:lang="en">Notation and Edition of New Music</label>
+                     <date when-custom="2024">Sommersemester 2024</date>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

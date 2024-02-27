@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00045">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Quo vadis DH? DHd 2024</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Quo vaids DH? DHd 2024</label>
+                     <orgName full="yes">Universität Passau</orgName>
+                     <settlement>Passau</settlement>
+                     <date from-custom="2024-02-26" to-custom="2024-03-01"/>
+                     <desc type="contribution" subtype="confTalk">Synergieeffekte zwischen Henze-Digital und der Carl Maria von Weber-Gesamtausgabe durch die bilaterale Weiterentwicklung der WeGA-WebApp</desc>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

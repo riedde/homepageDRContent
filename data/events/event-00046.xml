@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00046">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Angebotene Lehrveranstaltung: Die Instrumentalmusik von Georg Friedrich Händel</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="course">
+                  <desc>
+                     <label xml:lang="de">Die Instrumentalmusik von Georg Friedrich Händel</label>
+                     <label xml:lang="en">The instrumental music of George Frideric Handel</label>
+                     <date when-custom="2024">Sommersemester 2024</date>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

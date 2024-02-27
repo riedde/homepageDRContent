@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00041">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Studientag: Briefeditionen vernetzen. Musiker:innenbriefe digital/hybrid</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Briefeditionen vernetzen. Musiker:innenbriefe digital/hybrid</label>
+                     <orgName>Arnold-Schönerg-Center</orgName>
+                     <settlement>Wien</settlement>
+                     <date when-custom="2024-01-17"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
