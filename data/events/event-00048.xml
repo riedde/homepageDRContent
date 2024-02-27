@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00048">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vortrag: Komponist*in – Edition – Vermittlung. Zum Phänomen ›Online-Portal‹ im Kontext musikwissenschaftlicher Forschung</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Bewerbungsvortrag für die Junior-Professur »Musikediton und Digital Humanities«</label>
+                     <orgName full="yes">Martin-Luther-Universität Halle-Wittenberg</orgName>
+                     <settlement>Halle (Saale)</settlement>
+                     <date when-custom="2024-02-01"/>
+                     <desc type="contribution" subtype="talk">Komponist*in – Edition – Vermittlung. Zum Phänomen ›Online-Portal‹ im Kontext musikwissenschaftlicher Forschung</desc>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
