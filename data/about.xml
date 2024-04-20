@@ -73,6 +73,13 @@
                      <desc xml:lang="de">Einrichtung und wissenschaftliche Betreuung von Tools und Workflows, Analyse wissenschaftlicher Anforderungen sowie Anpassung und Weiterentwicklung der WeGA-WebApp, Weiterentwicklung von TEI-Schemata, Schulung und Support.</desc>
                      <desc xml:lang="en">Setup and scientific support of tools and workflows, analysis of scientific requirements as well as adaptation and further development of the WeGA WebApp, further development of TEI schemas, training and support.</desc>
                   </occupation>
+               	<occupation>
+               		<label xml:lang="de">Assistent von Prof. Dr. Antje Tumat</label>
+               		<label xml:lang="en">Assistent of Prof. Dr. Antje Tumat</label>
+               		<orgName xml:lang="de">Musikwissenschaftliches Seminar Detmold/Paderborn, Henze-Digital</orgName>
+               		<orgName xml:lang="en">Musicology Seminar Detmold/Paderborn, Henze-Digital</orgName>
+               		<date from-custom="2023-09" to-custom="2024-02"/>
+               	</occupation>
                   <occupation>
                      <label xml:lang="de">Wissenschaftlicher Mitarbeiter (Editor)</label>
                      <label xml:lang="en">Research assistant (Editor)</label>
