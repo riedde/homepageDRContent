@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0052">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abstract: Synergieeffekte zwischen Henze-Digital und der Carl Maria von Weber-Gesamtausgabe durch die bilaterale Weiterentwicklung der WeGA-WebApp</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
+                  <analytic>
+                     <title>Synergieeffekte zwischen Henze-Digital und der Carl Maria von Weber-Gesamtausgabe durch die bilaterale Weiterentwicklung der WeGA-WebApp</title>
+                     <author>Ried, Dennis</author>
+                     <ref type="doi" target="https://zenodo.org/doi/10.5281/zenodo.10698272">10.5281/zenodo.10698272</ref>
+                  </analytic>
+                  <monogr>
+                     <title>Digital Humanities im deutschsprachigen Raum 2024</title>
+                     <editor>Weis, Joëlle</editor>
+                     <editor>Bunout, Estelle</editor>
+                     <editor>Haider, Thomas</editor>
+                     <editor>Helling, Patrick</editor>
+                     <imprint>
+                        <pubPlace/>
+                        <date when-custom="2024-02">2024</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

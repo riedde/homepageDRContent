@@ -13,6 +13,8 @@
                <biblStruct type="dataPub">
                   <monogr>
                      <title>HenDi-ODD, v3.0.0</title>
+                     <author>Capelle, Irmlind</author>
+                     <author>Minetti, Elena</author>
                      <author>Ried, Dennis</author>
                      <imprint>
                         <pubPlace>Zenodo.org</pubPlace>

@@ -25,9 +25,9 @@
                      <orgName xml:lang="en">Karlsruhe University of Music</orgName>
                      <orgName xml:lang="de">Hochschule für Musik Karlsruhe</orgName>
                      <date when-custom="2023-12"/>
-                     <note type="subject" xml:lang="en">Doctor philosophiae (Musicology)</note>
-                     <note type="subject" xml:lang="de">Doctor philosophiae (Musikwissenschaft)</note>
-                     <note type="grade" subtype="german">magna cum laude</note>
+                     <note type="subject" xml:lang="en">Doctor of Philosophy (Musicology)</note>
+                     <note type="subject" xml:lang="de">Doktor der Philosophie (Musikwissenschaft)</note>
+                     <note type="grade" subtype="german">magna cum laude [1,6]</note>
                      <note type="grade" subtype="GPA">3.7–3.8</note>
                   </education>
                   <education>
@@ -79,6 +79,8 @@
                		<orgName xml:lang="de">Musikwissenschaftliches Seminar Detmold/Paderborn, Henze-Digital</orgName>
                		<orgName xml:lang="en">Musicology Seminar Detmold/Paderborn, Henze-Digital</orgName>
                		<date from-custom="2023-09" to-custom="2024-02"/>
+               	   <desc xml:lang="de">Unterstützende Aufgaben am Lehrstuhl von Prof. Dr. Antje Tumat, Übernahme von Lehrveranstaltungen, Studienberatung für B.A.-Studierende</desc>
+               	   <desc xml:lang="en">Supporting tasks, teaching, study advice for B.A. students</desc>
                	</occupation>
                   <occupation>
                      <label xml:lang="de">Wissenschaftlicher Mitarbeiter (Editor)</label>

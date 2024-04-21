@@ -12,9 +12,9 @@
             <listEvent>
                <event type="commitment">
                   <desc>
-                     <label xml:lang="de">Baumann-Digital – Promotionsbegleitendes Projekt (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
-                     <label xml:lang="en">Baumann-Digital – PhD project (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
-                     <date from-custom="2017"/>
+                     <label xml:lang="de">Baumann-Digital – als promotionsbegleitendes Projekt (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
+                     <label xml:lang="en">Baumann-Digital – as PhD project (<ref target="https://www.baumann-digital.de">BauDi</ref>)</label>
+                     <date from-custom="2017" to-custom="2024"/>
                   </desc>
                </event>
             </listEvent>
