@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00053">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Jahrestagung der Gesellschaft für Musikforschung</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Jahrestagung der Gesellschaft für Musikforschung</label>
+                     <orgName>Universität Köln</orgName>
+                     <settlement>Köln</settlement>
+                     <date from-custom="2024-09-11" to-custom="2022-09-14"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

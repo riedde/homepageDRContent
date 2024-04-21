@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00050">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MEI-Developer Workshop</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>MEI-Developer Workshop</label>
+                     <orgName>Enote GmbH</orgName>
+                     <settlement>Berlin</settlement>
+                     <date when-custom="2022-10"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

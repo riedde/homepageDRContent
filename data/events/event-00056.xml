@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00056">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vortrag: Henze-Digital. Hans Werner Henzes künstlerisches Netzwerk</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Gastvortrag im Kolloquium am Musikwissenschaftlichen Seminar</label>
+                     <orgName full="yes">Universität Heidelberg</orgName>
+                     <settlement>Heidelberg</settlement>
+                     <date when-custom="2024-04-30"/>
+                     <desc type="contribution" subtype="talk">Henze-Digital. Hans Werner Henzes künstlerisches Netzwerk</desc>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

@@ -14,12 +14,13 @@
                   <analytic>
                      <title>Ludwig Baumann</title>
                      <author>Ried, Dennis</author>
+                     <ref target="https://stadtgeschichte.karlsruhe.de/stadtarchiv/blick-in-die-geschichte/ausgaben/blick-140">Blick in die Geschichte Nr. 140</ref>
                   </analytic>
                   <monogr>
                      <title>Blick in die Geschichte. Karlsruher Stadthistorische Beiträge</title>
                      <editor>Stadt Karlsruhe</editor>
                      <imprint>
-                        <date when-custom="2023-11">2023</date>
+                        <date when-custom="2023-09-15">2023</date>
                      </imprint>
                      <biblScope unit="pp" from="1" to="1">1</biblScope>
                      <biblScope unit="issue">140</biblScope>

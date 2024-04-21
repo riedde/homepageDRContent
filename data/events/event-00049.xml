@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00049">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plenartagung der Arbeitsgemeinschaft germansitische Edition 2024</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>»Edition als Transformation«. Plenartagung der Arbeitsgemeinschaft germansitische Edition</label>
+                     <orgName full="yes">Bergische Universität</orgName>
+                     <settlement>Wuppertal</settlement>
+                     <date when-custom="2024-02"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
