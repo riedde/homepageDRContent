@@ -65,6 +65,15 @@
                      <note type="grade" subtype="GPA">3.7</note>
                   </education>
                   <occupation>
+                     <label xml:lang="de">Ruf nach Halle an der Saale (W1)</label>
+                     <label xml:lang="en">Appointment to Halle an der Saale (W1)</label>
+                     <orgName xml:lang="de">Martin-Luther-Universität Halle-Wittenberg</orgName>
+                     <orgName xml:lang="en">Martin-Luther-University Halle-Wittenberg</orgName>
+                     <date from-custom="2024-07"/>
+                     <desc xml:lang="de">Juniorprofessur für Musikwissenschaft mit Schwerpunkt Musikedition und Digital Humanities</desc>
+                     <desc xml:lang="en">Junior professorship for musicology with a focus on music editing and digital humanities</desc>
+                  </occupation>
+                  <occupation>
                      <label xml:lang="de">Wissenschaftlicher Mitarbeiter (DH)</label>
                      <label xml:lang="en">Research assistant (DH)</label>
                      <orgName xml:lang="de">Musikwissenschaftliches Seminar Detmold/Paderborn, Henze-Digital</orgName>
@@ -130,7 +139,7 @@
                   <residence>
                      <settlement>Waldsee (Speyer)</settlement>
                      <country key="de"/>
-                     <email>ried-musikforschung@mail.de</email>
+                     <email>info@dennisried.de</email>
                   </residence>
                   <link target="github https://github.com/riedde"/>
                   <link target="mastodon https://fedihum.org/@riedde"/>
