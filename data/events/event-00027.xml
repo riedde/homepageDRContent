@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Beitrag: »Henze Digital« – Hans Werner Henzes künstlerisches Netzwerk (Henze-Digital)</title>
+            <title>Beitrag: »Henze-Digital« – Hans Werner Henzes künstlerisches Netzwerk (Henze-Digital)</title>
          </titleStmt>
          <publicationStmt>
             <p>Published on https://dennisried.de</p>
@@ -12,9 +12,9 @@
             <listEvent>
                <event type="commitment">
                   <desc>
-                     <label xml:lang="de">»Henze Digital« – Hans Werner Henzes künstlerisches Netzwerk (<ref target="https://gepris.dfg.de/gepris/projekt/459602398">Henze-Digital</ref>)</label>
-                     <label xml:lang="en">»Henze Digital« – Hans Werner Henzes künstlerisches Netzwerk (<ref target="https://gepris.dfg.de/gepris/projekt/459602398">Henze-Digital</ref>)</label>
-                     <date from-custom="2021"/>
+                     <label xml:lang="de">»Henze-Digital« – Hans Werner Henzes künstlerisches Netzwerk (<ref target="https://gepris.dfg.de/gepris/projekt/459602398">Henze-Digital</ref>)</label>
+                     <label xml:lang="en">»Henze-Digital« – Hans Werner Henzes künstlerisches Netzwerk (<ref target="https://gepris.dfg.de/gepris/projekt/459602398">Henze-Digital</ref>)</label>
+                     <date from-custom="2021" to-custom="2024"/>
                   </desc>
                </event>
             </listEvent>
