@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0065">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schema: MEI 5.0</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="contribution">
+                  <monogr>
+                     <title>MEI 5.0</title>
+                     <editor>Kepper, Johannes</editor>
+                     <editor>Roland, Perry</editor>
+                     <imprint>
+                        <date when-custom="2023-09-05">2023</date>
+                     </imprint>
+                  </monogr>
+                  <ref type="github" target="https://github.com/music-encoding/music-encoding/releases/tag/v5.0">https://github.com/music-encoding/music-encoding/releases/tag/v5.0</ref>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
