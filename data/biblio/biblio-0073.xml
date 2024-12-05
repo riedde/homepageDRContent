@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0073">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Chap.] 3 Metadata in MEI, in: MEI Guidelines 5.1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="edited" subtype="article" status="inThePipe">
+                  <analytic>
+                     <title>[Chap.] 3 Metadata in MEI</title>
+                     <editor>Gubsch, Clemens</editor>
+                     <editor>Ried, Dennis</editor>
+                  </analytic>
+                  <monogr>
+                     <title>MEI Guidelines 5.1</title>
+                     <editor>Kepper, Johannes</editor>
+                     <editor>Roland, Perry</editor>
+                     <imprint>
+                        <date when-custom="2024-12">est. 2024</date>
+                     </imprint>
+                  </monogr>
+                  <!--<ref type="github" target="https://github.com/music-encoding/music-encoding/releases/tag/v5.1">https://github.com/music-encoding/music-encoding/releases/tag/v5.1</ref>-->
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
