@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0074">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>„Viel Geschrei und Nerderei“ – der etwas andere Tagungsbericht vom 1. Harsh-Vocal-Camp</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="edited" subtype="article" status="inThePipe">
+                  <analytic>
+                     <title>„Viel Geschrei und Nerderei“ – der etwas andere Tagungsbericht vom 1. Harsh-Vocal-Camp</title>
+                     <author>Ried, Dennis</author>
+                  </analytic>
+                  <monogr>
+                     <title>kontrovers. Debatten zur Musikwissenschaft</title>
+                     <editor>Bolz, Sebastian</editor>
+                     <editor>Kelber, Moritz</editor>
+                     <imprint>
+                        <date when-custom="2024-11-27">2024</date>
+                     </imprint>
+                  </monogr>
+                  <ref target="https://kontrovers.hypotheses.org/4347">https://kontrovers.hypotheses.org/4347</ref>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
