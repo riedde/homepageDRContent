@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0066">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="dataPub">
+                  <monogr>
+                     <title>»halb und halb« – Hybride Edition als Kompromiss? Appendix zur Dissertationsschrift</title>
+                     <author>Ried, Dennis</author>
+                     <imprint>
+                        <date when-custom="2024-08">2024</date>
+                     </imprint>
+                  </monogr>
+                  <ref type="doi" target="https://doi.org/10.5281/zenodo.10072485">10.5281/zenodo.10072485</ref>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

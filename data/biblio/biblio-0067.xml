@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="contribution">
+                  <monogr>
+                     <title>WeGA-ODD: v4.9.0</title>
+                     <author>Stadler, Peter</author>
+                     <author>Ried, Dennis</author>
+                     <author>Obert, Salome</author>
+                     <author>Neubert, Anna Maria</author>
+                     <author>Schreiter, Soveig</author>
+                     <imprint>
+                        <date when-custom="2024">2024</date>
+                     </imprint>
+                  </monogr>
+                  <ref type="doi" target="https://doi.org/10.5281/ZENODO.10604058">10.5281/zenodo.10604058</ref>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
