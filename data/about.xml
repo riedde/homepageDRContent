@@ -69,14 +69,14 @@
                      <label xml:lang="en">Junior professorship for musicology with a focus on music editing and digital humanities</label>
                      <orgName xml:lang="de">Martin-Luther-Universität Halle-Wittenberg</orgName>
                      <orgName xml:lang="en">Martin-Luther-University Halle-Wittenberg</orgName>
-                     <date when-custom="2024-11"/>
+                     <date from-custom="2025-01"/>
                   </occupation>
                   <occupation>
                      <label xml:lang="de">Ruf nach Halle an der Saale (W1)</label>
                      <label xml:lang="en">Appointment to Halle an der Saale (W1)</label>
                      <orgName xml:lang="de">Martin-Luther-Universität Halle-Wittenberg</orgName>
                      <orgName xml:lang="en">Martin-Luther-University Halle-Wittenberg</orgName>
-                     <date from-custom="2024-07"/>
+                     <date when-custom="2024-07"/>
                      <desc xml:lang="de">Juniorprofessur für Musikwissenschaft mit Schwerpunkt Musikedition und Digital Humanities</desc>
                      <desc xml:lang="en">Junior professorship for musicology with a focus on music editing and digital humanities</desc>
                   </occupation>
