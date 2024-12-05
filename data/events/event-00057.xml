@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vortrag: Edition - Ein Portal in eine andere Welt?</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Edition von Filmmusik. Herausforderungen der Multimedialität (Int. Konferenz)</label>
+                     <orgName full="yes">Goethe-Universität Frankfurt am Main</orgName>
+                     <settlement>Frankfurt am Main</settlement>
+                     <date from-custom="2024-11-22" to-custom="2024-11-23"/>
+                     <desc type="contribution" subtype="talk">Hybride Edition – Der Inbegriff von Multimedialität?</desc>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

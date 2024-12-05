@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00061">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: 1. Harsh-Vocal-Camp</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>1. Harsh-Vocal-Camp</label>
+                     <orgName>by Britta Görtz</orgName>
+                     <settlement>Hannover</settlement>
+                     <date from-custom="2024-10-04" to-custom="2024-10-06"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

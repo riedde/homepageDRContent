@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00060">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Jahrestagung der Gesellschaft für Musikforschung</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>»Musik in einer geteilten Welt«, 77. Jahrestagung der Gesellschaft für Musikforschung</label>
+                     <orgName>Hochschule für Musik Franz Liszt Weimar</orgName>
+                     <settlement>Weimar</settlement>
+                     <date from-custom="2025-10-06" to-custom="2025-10-09"/>
+<!--                     <desc type="contribution" subtype="confTalk"></desc>-->
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

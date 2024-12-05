@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00062">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: 2. Harsh-Vocal-Camp</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>2. Harsh-Vocal-Camp</label>
+                     <orgName>by Britta Görtz</orgName>
+                     <settlement>Hannover</settlement>
+                     <date from-custom="2025-10-03" to-custom="2025-10-05"/>
+                     <ref target="https://www.harsh-vocal-camp.de/">https://www.harsh-vocal-camp.de/</ref>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

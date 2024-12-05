@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: »Under Construction«. Jahrestagung der Digital Humanities im deutschsprachigen Raum</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>»Under Construction«. Jahrestagung der Digital Humanities im deutschsprachigen Raum</label>
+                     <orgName>Universität Bielefeld</orgName>
+                     <settlement>Bielefeld</settlement>
+                     <date from-custom="2025-03-03" to-custom="2025-03-07"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

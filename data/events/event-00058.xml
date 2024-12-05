@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00057">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vortrag: Edition - Ein Portal in eine andere Welt?</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Kolloquium der Musikwissenschaft (Gastvortrag)</label>
+                     <orgName full="yes">Universität Augsburg</orgName>
+                     <settlement>Augsburg</settlement>
+                     <date when-custom="2024-11-26"/>
+                     <desc type="contribution" subtype="talk">Edition – Ein Portal in eine andere Welt?</desc>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

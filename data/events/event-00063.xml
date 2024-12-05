@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00063">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: Music Encoding Conference</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Music Encoding Conference</label>
+                     <orgName>City University of London / Goldsmiths University of London</orgName>
+                     <settlement>London</settlement>
+                     <date from-custom="2025-06-03" to-custom="2025-06-06"/>
+                     <ref target="https://www.harsh-vocal-camp.de/">https://www.harsh-vocal-camp.de/</ref>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

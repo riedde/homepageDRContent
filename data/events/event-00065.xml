@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00065">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Workshop: MEI Developer Meeting</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="workshop">
+                  <desc>
+                     <label>MEI Developer Meeting</label>
+                     <orgName>Huygens Institute for History and Culture of the Netherlands</orgName>
+                     <settlement>Amsterdam</settlement>
+                     <date from-custom="2025-02-04" to-custom="2025-02-07"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

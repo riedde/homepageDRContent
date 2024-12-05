@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00067">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Konferenz: 16. Edirom-Summer-School</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>16. Edirom-Summer-School</label>
+                     <orgName full="yes">Universität Paderborn/HfM Detmold</orgName>
+                     <settlement>Paderborn</settlement>
+                     <date from-custom="2025-09-08" to-custom="2025-09-12"/>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

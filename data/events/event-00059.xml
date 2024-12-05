@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00059">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>deRSE25 – Conference for Research Software Engineering in Germany</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>deRSE25 – Conference for Research Software Engineering in Germany</label>
+                     <orgName full="yes">Karlsruher Institut für Technologie (KIT)</orgName>
+                     <settlement>Karlsruhe</settlement>
+                     <date from-custom="2025-02-25" to-custom="2025-02-27"/>
+<!--                     <desc type="contribution" subtype="talk"></desc>-->
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
