@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00062">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00069">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Konferenz: 2. Harsh-Vocal-Camp</title>
+            <title>NFDI4Culture: 5. Culture Community Plenary</title>
          </titleStmt>
          <publicationStmt>
             <p>Published on https://dennisried.de</p>
@@ -12,11 +12,10 @@
             <listEvent>
                <event type="conference">
                   <desc>
-                     <label>2. Harsh-Vocal-Camp</label>
-                     <orgName>by Britta Görtz</orgName>
-                     <settlement>Hannover</settlement>
-                     <date from-custom="2025-10-03" to-custom="2025-10-05"/>
-                     <ref target="https://www.harsh-vocal-camp.de/">https://www.harsh-vocal-camp.de/</ref>
+                     <label>5. Culture Community Plenary (NFDI4Culture)</label>
+                     <orgName full="yes">Akademie der Wissenschaften und der Literatur</orgName>
+                     <settlement>Mainz</settlement>
+                     <date from-custom="2025-09-24" to-custom="2025-09-26"/>
                   </desc>
                </event>
             </listEvent>

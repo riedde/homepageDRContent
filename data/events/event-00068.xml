@@ -16,6 +16,8 @@
                      <orgName full="yes">Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)</orgName>
                      <settlement>Erlangen</settlement>
                      <date from-custom="2026-02-11" to-custom="2026-02-14"/>
+                     <desc type="contribution" subtype="confTalk">Was geben wir eigentlich heraus? Ein Blick auf digitale
+                        Editionen</desc>
                   </desc>
                </event>
             </listEvent>

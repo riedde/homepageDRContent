@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00063">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00071">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Konferenz: Music Encoding Conference</title>
+            <title>Angebotene Lehrveranstaltung: Musikeditionspraxis</title>
          </titleStmt>
          <publicationStmt>
             <p>Published on https://dennisried.de</p>
          </publicationStmt>
          <sourceDesc>
             <listEvent>
-               <event type="conference">
+               <event type="course">
                   <desc>
-                     <label>Music Encoding Conference</label>
-                     <orgName>City University of London / Goldsmiths University of London</orgName>
-                     <settlement>London (online)</settlement>
-                     <date from-custom="2025-06-03" to-custom="2025-06-06"/>
+                     <label xml:lang="de">Musikeditionspraxis</label>
+                     <label xml:lang="en">Music editing practice</label>
+                     <date when-custom="2025">Sommersemester 2025</date>
                   </desc>
                </event>
             </listEvent>

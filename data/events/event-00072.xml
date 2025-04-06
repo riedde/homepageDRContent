@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00072">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vortrag: Segen oder Fluch? Hybride Edition als Spannungsfeld von Tradition und Digitalität</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="conference">
+                  <desc>
+                     <label>Kolloquium der Musikwissenschaft (Gastvortrag)</label>
+                     <orgName full="yes">Universität Freiburg</orgName>
+                     <settlement>Freiburg</settlement>
+                     <date when-custom="2025-06-03"/>
+                     <desc type="contribution" subtype="talk">Segen oder Fluch? Hybride Edition als Spannungsfeld von Tradition und Digitalität</desc>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

@@ -146,7 +146,7 @@
                   <residence>
                      <settlement>Waldsee (Speyer)</settlement>
                      <country key="de"/>
-                     <email>info@dennisried.de</email>
+                     <email>forschung@dennisried.de</email>
                   </residence>
                   <link target="github https://github.com/riedde"/>
                   <link target="mastodon https://fedihum.org/@riedde"/>
@@ -159,10 +159,10 @@
    <text>
       <body>
          <div xml:lang="en">
-            <p>Digital research data with high indexing depth and of high quality help us to achieve valid results beyond the limits of our own research question. That is why I support the development of data resources and the discourses of the departments of Digital Musicology and Digital Humanities through active participation.</p>
+            <p>Digital research data with huge indexing depth and of high quality help us to achieve valid results beyond the limits of our own research question. That is why I support the development of data resources and the discourses of the departments of Digital Musicology and Digital Humanities.</p>
          </div>
          <div xml:lang="de">
-            <p>Digitale Forschungsdaten mit hoher Erschließungstiefe und von hoher Qualität helfen uns, über die Grenzen der eigenen Forschungsfrage hinaus, valide Ergebnisse zu erzielen. Deshalb unterstütze ich den Aufbau von Datenbeständen und die Diskurse der Fachbereiche Digitalen Musikwissenschaft und Digital Humanities durch aktive Teilnahme.</p>
+            <p>Digitale Forschungsdaten mit großer Erschließungstiefe und von hoher Qualität helfen uns, über die Grenzen der eigenen Forschungsfrage hinaus, valide Ergebnisse zu erzielen. Deshalb unterstütze ich den Aufbau von Datenbeständen und die Diskurse der Fachbereiche Digitalen Musikwissenschaft und Digital Humanities.</p>
          </div>
       </body>
    </text>

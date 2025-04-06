@@ -15,7 +15,9 @@
                      <label>Internationale Wissenschaftliche Konferenz / Händel-Festspiele</label>
                      <orgName>Martin-Luther-Universität Halle-Wittenberg</orgName>
                      <settlement>Halle(Saale)</settlement>
-                     <date from-custom="2025-06-10" to-custom="2025-06-11"/>
+                     <date from-custom="2025-06-10" to-custom="2025-06-12"/>
+                     <desc type="contribution" subtype="roundtable">Händels italienische Texte – Chancen und Herausforderungen einer kritischen Edition</desc>
+                     <desc type="contribution" subtype="roundtable">Händels italienische Texte – Möglichkeiten und Grenzen einer digitalen Edition</desc>
                   </desc>
                </event>
             </listEvent>

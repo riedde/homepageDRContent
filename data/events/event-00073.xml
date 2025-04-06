@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="event-00071">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Angebotene Lehrveranstaltung: Hybride (Musik-)Edition. Ein Spannungsfeld zwischen Tradition und Digitalität</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listEvent>
+               <event type="course">
+                  <desc>
+                     <label xml:lang="de">Hybride (Musik-)Edition. Ein Spannungsfeld zwischen Tradition und Digitalität</label>
+                     <label xml:lang="en">Hybrid (music) edition. A field of conflict between tradition and digitality</label>
+                     <date when-custom="2025">Sommersemester 2025</date>
+                  </desc>
+               </event>
+            </listEvent>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
