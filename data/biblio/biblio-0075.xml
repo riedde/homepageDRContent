@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0075">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Musik, Netzwerke, Selbstzeugnisse. Aktuelle Forschung zu Hans Werner Henze</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="edited" subtype="proceedings">
+                  <monogr>
+                     <title>Musik, Netzwerke, Selbstzeugnisse. Aktuelle Forschung zu Hans Werner Henze</title>
+                     <editor>Ried, Dennis</editor>
+                     <editor>Capelle, Irmlind</editor>
+                     <editor>Minetti, Elena</editor>
+                     <editor>Tumat, Antje</editor>
+                     <imprint>
+                        <date when-custom="2025">2025</date>
+                     </imprint>
+                  </monogr>
+                  <ref type="doi" target="https://doi.org/10.25366/2025.156">10.25366/2025.156</ref>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

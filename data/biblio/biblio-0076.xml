@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="biblio-0076">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hans Werner Henzes künstlerisches Netzwerk</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published on https://dennisried.de</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <biblStruct type="article">
+                  <analytic>
+                     <title>Hans Werner Henzes künstlerisches Netzwerk</title>
+                     <author>Ried, Dennis</author>
+                     <author>Capelle, Irmlind</author>
+                     <author>Minetti, Elena</author>
+                     <author>Tumat, Antje</author>
+                  </analytic>
+                  <monogr>
+                     <title>Musik, Netzwerke, Selbstzeugnisse. Aktuelle Forschung zu Hans Werner Henze</title>
+                     <editor>Ried, Dennis</editor>
+                     <editor>Capelle, Irmlind</editor>
+                     <editor>Minetti, Elena</editor>
+                     <editor>Tumat, Antje</editor>
+                     <imprint>
+                        <date when-custom="2025">2025</date>
+                     </imprint>
+                  </monogr>
+                  <ref type="doi" target="https://doi.org/10.25366/2025.157">10.25366/2025.157</ref>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
